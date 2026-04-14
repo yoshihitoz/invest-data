@@ -1026,23 +1026,23 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-04-13T16:09:13.698720",
+    "snapshot_at": "2026-04-14T09:26:10.621119",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
     "ticker_code": "BTC",
     "asset_name": "BTC",
     "quantity": 0,
-    "current_price": 11341493.0,
+    "current_price": 11822587.0,
     "acquisition_price": null,
-    "valuation": 1268350,
+    "valuation": 1322152,
     "profit_loss": null,
     "profit_loss_pct": null
   },
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-04-13T16:09:13.698720",
+    "snapshot_at": "2026-04-14T09:26:10.621119",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
@@ -1154,7 +1154,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1163,14 +1163,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 660191,
-    "profit_loss": 151991,
-    "profit_loss_pct": 29.9
+    "valuation": 657236,
+    "profit_loss": 149036,
+    "profit_loss_pct": 29.3
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1179,9 +1179,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 620695,
-    "profit_loss": 112495,
-    "profit_loss_pct": 22.1
+    "valuation": 623189,
+    "profit_loss": 114989,
+    "profit_loss_pct": 22.6
   },
   {
     "username": "yoshihito",
@@ -1634,7 +1634,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1643,14 +1643,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 65811,
-    "profit_loss": 8061,
-    "profit_loss_pct": 14.0
+    "valuation": 66273,
+    "profit_loss": 8523,
+    "profit_loss_pct": 14.8
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1659,9 +1659,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 63667,
-    "profit_loss": 5917,
-    "profit_loss_pct": 10.2
+    "valuation": 63596,
+    "profit_loss": 5846,
+    "profit_loss_pct": 10.1
   },
   {
     "username": "yoshihito",
@@ -1778,7 +1778,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1787,14 +1787,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 14051,
-    "profit_loss": 2501,
-    "profit_loss_pct": 21.7
+    "valuation": 14050,
+    "profit_loss": 2500,
+    "profit_loss_pct": 21.6
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-13T16:08:30.877746",
+    "snapshot_at": "2026-04-14T09:25:02.650577",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1803,9 +1803,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 12561,
-    "profit_loss": 1011,
-    "profit_loss_pct": 8.8
+    "valuation": 12560,
+    "profit_loss": 1010,
+    "profit_loss_pct": 8.7
   },
   {
     "username": "yoshihito",
