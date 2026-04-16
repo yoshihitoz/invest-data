@@ -1058,23 +1058,23 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-04-16T09:25:33.745037",
+    "snapshot_at": "2026-04-16T13:05:07.166663",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
     "ticker_code": "BTC",
     "asset_name": "BTC",
     "quantity": 0,
-    "current_price": 11837406.0,
+    "current_price": 11899149.0,
     "acquisition_price": null,
-    "valuation": 1323809,
+    "valuation": 1330714,
     "profit_loss": null,
     "profit_loss_pct": null
   },
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-04-16T09:25:33.745037",
+    "snapshot_at": "2026-04-16T13:05:07.166663",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
@@ -1186,7 +1186,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1218,7 +1218,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1666,7 +1666,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1682,7 +1682,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1810,7 +1810,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1826,7 +1826,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-04-16T09:24:27.862046",
+    "snapshot_at": "2026-04-16T13:05:06.844441",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
