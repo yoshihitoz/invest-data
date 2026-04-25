@@ -1857,6 +1857,22 @@
   },
   {
     "username": "yoshihito",
+    "source": "楽天証券",
+    "snapshot_at": "2026-04-24T09:24:55.804939",
+    "account_category": "特定預り",
+    "asset_type": "投資信託",
+    "asset_class": "投資信託",
+    "ticker_code": null,
+    "asset_name": "eMAXIS Slim 米国株式",
+    "quantity": 2133,
+    "current_price": 41725.0,
+    "acquisition_price": 14064.7,
+    "valuation": 8900,
+    "profit_loss": 5900,
+    "profit_loss_pct": 196.66
+  },
+  {
+    "username": "yoshihito",
     "source": "SBI証券",
     "snapshot_at": "2026-04-24T16:00:17.410654",
     "account_category": "NISA預り（成長投資枠）",
@@ -1902,22 +1918,6 @@
     "valuation": 5615,
     "profit_loss": 3615,
     "profit_loss_pct": 180.76
-  },
-  {
-    "username": "yoshihito",
-    "source": "楽天証券",
-    "snapshot_at": "2026-04-24T09:24:55.804939",
-    "account_category": "特定預り",
-    "asset_type": "投資信託",
-    "asset_class": "投資信託",
-    "ticker_code": null,
-    "asset_name": "eMAXIS Slim 米国株式",
-    "quantity": 810,
-    "current_price": 41725.0,
-    "acquisition_price": 12345.68,
-    "valuation": 3380,
-    "profit_loss": 2380,
-    "profit_loss_pct": 237.97
   },
   {
     "username": "yoshihito",
