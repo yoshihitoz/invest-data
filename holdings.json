@@ -753,22 +753,6 @@
   },
   {
     "username": "yoshihito",
-    "source": "Nikko for One",
-    "snapshot_at": "2026-04-24T16:04:22.232234",
-    "account_category": "持株会",
-    "asset_type": "stock",
-    "asset_class": "国内株式",
-    "ticker_code": "6532",
-    "asset_name": "持株会(6532)",
-    "quantity": 1097,
-    "current_price": 5362.0,
-    "acquisition_price": 4914.0,
-    "valuation": 5883963,
-    "profit_loss": 491610,
-    "profit_loss_pct": null
-  },
-  {
-    "username": "yoshihito",
     "source": "SMBC日興証券",
     "snapshot_at": "2026-04-27T09:19:28.863569",
     "account_category": "SMBC日興証券",
@@ -781,6 +765,22 @@
     "acquisition_price": null,
     "valuation": 5758500,
     "profit_loss": 1964600,
+    "profit_loss_pct": null
+  },
+  {
+    "username": "yoshihito",
+    "source": "Nikko for One",
+    "snapshot_at": "2026-04-27T09:21:40.212660",
+    "account_category": "持株会",
+    "asset_type": "stock",
+    "asset_class": "国内株式",
+    "ticker_code": "6532",
+    "asset_name": "持株会(6532)",
+    "quantity": 1097,
+    "current_price": 5222.0,
+    "acquisition_price": 4914.0,
+    "valuation": 5730335,
+    "profit_loss": 337982,
     "profit_loss_pct": null
   },
   {
