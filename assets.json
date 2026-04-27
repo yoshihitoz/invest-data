@@ -53,8 +53,8 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI 401K",
-    "snapshot_at": "2026-04-24T16:08:11.616912",
-    "valuation": 10189609,
+    "snapshot_at": "2026-04-27T09:26:08.535740",
+    "valuation": 10188599,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -83,8 +83,8 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "bitFlyer",
-    "snapshot_at": "2026-04-24T16:09:25.456177",
-    "valuation": 2343103,
+    "snapshot_at": "2026-04-27T09:27:27.210252",
+    "valuation": 2351459,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -133,8 +133,8 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "楽天証券",
-    "snapshot_at": "2026-04-24T09:24:55.804939",
-    "valuation": 5080622,
+    "snapshot_at": "2026-04-27T09:25:52.224877",
+    "valuation": 5111597,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -143,8 +143,8 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "三井住友銀行",
-    "snapshot_at": "2026-04-24T16:08:23.207643",
-    "valuation": 348171,
+    "snapshot_at": "2026-04-27T09:26:23.673141",
+    "valuation": 398171,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
