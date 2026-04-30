@@ -3,11 +3,11 @@
     "username": "masakoisogai",
     "display_name": "Mama",
     "source": "SBI証券",
-    "snapshot_at": "2026-04-27T16:01:09.518694",
-    "valuation": 107113204,
-    "profit_loss": 33089428,
-    "profit_loss_rate": 44.7,
-    "acquisition_cost": 74023776
+    "snapshot_at": "2026-04-30T13:01:50.281791",
+    "valuation": 106927472,
+    "profit_loss": 32903674,
+    "profit_loss_rate": 44.45,
+    "acquisition_cost": 74023798
   },
   {
     "username": "masakoisogai",
@@ -23,11 +23,11 @@
     "username": "nanaisogai",
     "display_name": "Sister",
     "source": "SBI証券",
-    "snapshot_at": "2026-04-27T16:02:40.312305",
-    "valuation": 12470590,
-    "profit_loss": 4424902,
-    "profit_loss_rate": 54.99,
-    "acquisition_cost": 8045688
+    "snapshot_at": "2026-04-30T13:03:33.692387",
+    "valuation": 12435445,
+    "profit_loss": 4388529,
+    "profit_loss_rate": 54.53,
+    "acquisition_cost": 8046916
   },
   {
     "username": "nanaisogai",
@@ -63,18 +63,18 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI証券",
-    "snapshot_at": "2026-04-27T16:00:17.998822",
-    "valuation": 209906813,
-    "profit_loss": 57916224,
-    "profit_loss_rate": 38.75,
-    "acquisition_cost": 149428660
+    "snapshot_at": "2026-04-30T13:00:59.384366",
+    "valuation": 209755118,
+    "profit_loss": 57716088,
+    "profit_loss_rate": 38.62,
+    "acquisition_cost": 149435941
   },
   {
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-04-30T09:17:13.274036",
-    "valuation": 5850328,
+    "snapshot_at": "2026-04-30T13:04:00.084105",
+    "valuation": 5673228,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -193,11 +193,11 @@
     "username": "yoshiyukiisogai",
     "display_name": "Brother",
     "source": "SBI証券",
-    "snapshot_at": "2026-04-27T16:01:56.009871",
-    "valuation": 13047464,
-    "profit_loss": 4963439,
-    "profit_loss_rate": 61.39,
-    "acquisition_cost": 8084025
+    "snapshot_at": "2026-04-30T13:02:38.764641",
+    "valuation": 13021585,
+    "profit_loss": 4936074,
+    "profit_loss_rate": 61.04,
+    "acquisition_cost": 8085511
   },
   {
     "username": "yoshiyukiisogai",
