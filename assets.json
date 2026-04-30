@@ -63,11 +63,11 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI証券",
-    "snapshot_at": "2026-04-30T13:00:59.384366",
-    "valuation": 209755118,
-    "profit_loss": 57716088,
-    "profit_loss_rate": 38.62,
-    "acquisition_cost": 149435941
+    "snapshot_at": "2026-04-30T15:16:24.846945",
+    "valuation": 209406925,
+    "profit_loss": 57366535,
+    "profit_loss_rate": 38.38,
+    "acquisition_cost": 149437301
   },
   {
     "username": "yoshihito",
