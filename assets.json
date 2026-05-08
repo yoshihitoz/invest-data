@@ -3,11 +3,11 @@
     "username": "masakoisogai",
     "display_name": "Mama",
     "source": "SBI証券",
-    "snapshot_at": "2026-05-07T16:01:48.485898",
-    "valuation": 109264332,
-    "profit_loss": 35240535,
-    "profit_loss_rate": 47.6,
-    "acquisition_cost": 74023797
+    "snapshot_at": "2026-05-08T09:17:28.730122",
+    "valuation": 109030623,
+    "profit_loss": 35006825,
+    "profit_loss_rate": 47.29,
+    "acquisition_cost": 74023798
   },
   {
     "username": "masakoisogai",
@@ -23,11 +23,11 @@
     "username": "nanaisogai",
     "display_name": "Sister",
     "source": "SBI証券",
-    "snapshot_at": "2026-05-07T16:03:35.782084",
-    "valuation": 12670943,
-    "profit_loss": 4624028,
-    "profit_loss_rate": 57.46,
-    "acquisition_cost": 8046915
+    "snapshot_at": "2026-05-08T09:19:44.464427",
+    "valuation": 12616554,
+    "profit_loss": 4569638,
+    "profit_loss_rate": 56.78,
+    "acquisition_cost": 8046916
   },
   {
     "username": "nanaisogai",
@@ -63,11 +63,11 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI証券",
-    "snapshot_at": "2026-05-07T16:00:24.035188",
-    "valuation": 218684635,
-    "profit_loss": 61319242,
-    "profit_loss_rate": 41.03,
-    "acquisition_cost": 149436079
+    "snapshot_at": "2026-05-08T09:16:01.626635",
+    "valuation": 219064715,
+    "profit_loss": 61653762,
+    "profit_loss_rate": 41.25,
+    "acquisition_cost": 149461056
   },
   {
     "username": "yoshihito",
@@ -193,10 +193,10 @@
     "username": "yoshiyukiisogai",
     "display_name": "Brother",
     "source": "SBI証券",
-    "snapshot_at": "2026-05-07T16:02:42.975970",
-    "valuation": 13247091,
-    "profit_loss": 5161580,
-    "profit_loss_rate": 63.83,
+    "snapshot_at": "2026-05-08T09:18:41.443590",
+    "valuation": 13205638,
+    "profit_loss": 5120127,
+    "profit_loss_rate": 63.32,
     "acquisition_cost": 8085511
   },
   {
