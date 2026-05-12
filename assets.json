@@ -3,11 +3,11 @@
     "username": "masakoisogai",
     "display_name": "Mama",
     "source": "SBI証券",
-    "snapshot_at": "2026-05-11T16:02:04.597286",
-    "valuation": 109849648,
-    "profit_loss": 35825815,
-    "profit_loss_rate": 48.39,
-    "acquisition_cost": 74023833
+    "snapshot_at": "2026-05-12T09:22:26.059243",
+    "valuation": 110332705,
+    "profit_loss": 36308870,
+    "profit_loss_rate": 49.05,
+    "acquisition_cost": 74023835
   },
   {
     "username": "masakoisogai",
@@ -64,7 +64,7 @@
     "display_name": "Papa",
     "source": "SBI証券",
     "snapshot_at": "2026-05-12T09:19:56.218392",
-    "valuation": 209319151,
+    "valuation": 221099087,
     "profit_loss": 63617178,
     "profit_loss_rate": 42.54,
     "acquisition_cost": 149518023
