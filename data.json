@@ -1,18 +1,18 @@
 {
-  "grand_total": 402749431.0,
-  "as_of": "2026-05-19T16:10:01.895144",
+  "grand_total": 402756214.0,
+  "as_of": "2026-05-19T16:15:01.995741",
   "users": [
     {
       "username": "yoshihito",
       "display_name": "Papa",
-      "total_valuation": 264962054.0,
-      "latest_snapshot": "2026-05-19T16:09:40.865346"
+      "total_valuation": 264968837.0,
+      "latest_snapshot": "2026-05-19T16:11:15.565765"
     },
     {
       "username": "masakoisogai",
       "display_name": "Mama",
       "total_valuation": 109551995.0,
-      "latest_snapshot": "2026-05-19T16:03:40.532082"
+      "latest_snapshot": "2026-05-19T16:09:54.257759"
     },
     {
       "username": "yoshiyukiisogai",
@@ -27,5 +27,5 @@
       "latest_snapshot": "2026-05-19T16:05:27.928146"
     }
   ],
-  "updated_at": "2026-05-19T16:10:02.172913"
+  "updated_at": "2026-05-19T16:15:02.154618"
 }
