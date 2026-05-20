@@ -398,5 +398,21 @@
     "valuation": 1022,
     "profit_loss": 0,
     "profit_loss_pct": null
+  },
+  {
+    "username": "masakoisogai",
+    "source": "SBI証券",
+    "snapshot_at": "2026-05-20T16:01:22.835994",
+    "account_category": "DOMESTIC_DEPOSIT",
+    "asset_type": null,
+    "asset_class": "国内預金",
+    "ticker_code": null,
+    "asset_name": "現金・預り金",
+    "quantity": null,
+    "current_price": null,
+    "acquisition_price": null,
+    "valuation": -114261,
+    "profit_loss": null,
+    "profit_loss_pct": null
   }
 ]
