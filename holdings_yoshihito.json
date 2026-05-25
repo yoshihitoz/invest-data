@@ -130,7 +130,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -338,7 +338,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -402,7 +402,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -418,23 +418,23 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-05-25T13:22:08.374109",
+    "snapshot_at": "2026-05-25T16:38:11.416672",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
     "ticker_code": "BTC",
     "asset_name": "BTC",
     "quantity": 0,
-    "current_price": 12250000.0,
+    "current_price": 12288730.0,
     "acquisition_price": null,
-    "valuation": 1369951,
+    "valuation": 1374282,
     "profit_loss": null,
     "profit_loss_pct": null
   },
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -450,7 +450,7 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-05-25T13:22:08.374109",
+    "snapshot_at": "2026-05-25T16:38:11.416672",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
@@ -594,7 +594,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -610,7 +610,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -674,7 +674,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -706,7 +706,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -738,7 +738,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -786,7 +786,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内不動産投信",
@@ -834,7 +834,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -866,7 +866,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内株式",
@@ -882,7 +882,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -898,7 +898,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -914,7 +914,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外債券",
@@ -978,7 +978,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "内外その他資産",
@@ -1010,7 +1010,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "国内債券",
@@ -1026,7 +1026,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "内外資産複合",
@@ -1042,7 +1042,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-05-25T13:21:57.081054",
+    "snapshot_at": "2026-05-25T16:36:56.741576",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "内外資産複合",
@@ -1122,7 +1122,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1169,22 +1169,6 @@
   },
   {
     "username": "yoshihito",
-    "source": "楽天証券",
-    "snapshot_at": "2026-05-22T09:24:52.432794",
-    "account_category": "特定預り",
-    "asset_type": "投資信託",
-    "asset_class": "投資信託",
-    "ticker_code": null,
-    "asset_name": "eMAXIS Slim 米国株式",
-    "quantity": 2133,
-    "current_price": 43369.0,
-    "acquisition_price": 14064.7,
-    "valuation": 9251,
-    "profit_loss": 6251,
-    "profit_loss_pct": 208.35
-  },
-  {
-    "username": "yoshihito",
     "source": "SBI証券",
     "snapshot_at": "2026-05-25T16:13:43.738727",
     "account_category": "旧NISA預り",
@@ -1217,6 +1201,22 @@
   },
   {
     "username": "yoshihito",
+    "source": "楽天証券",
+    "snapshot_at": "2026-05-22T09:24:52.432794",
+    "account_category": "特定預り",
+    "asset_type": "投資信託",
+    "asset_class": "投資信託",
+    "ticker_code": null,
+    "asset_name": "eMAXIS Slim 米国株式",
+    "quantity": 810,
+    "current_price": 43369.0,
+    "acquisition_price": 12345.68,
+    "valuation": 3513,
+    "profit_loss": 2513,
+    "profit_loss_pct": 251.28
+  },
+  {
+    "username": "yoshihito",
     "source": "SBI証券",
     "snapshot_at": "2026-05-25T16:13:43.738727",
     "account_category": "NISA預り（成長投資枠）",
@@ -1234,7 +1234,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1250,7 +1250,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1266,7 +1266,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1282,7 +1282,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-05-25T13:22:07.854401",
+    "snapshot_at": "2026-05-25T16:37:07.296218",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
