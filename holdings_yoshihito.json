@@ -98,7 +98,7 @@
   {
     "username": "yoshihito",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-05-25T16:29:31.894107",
+    "snapshot_at": "2026-05-26T09:54:38.981762",
     "account_category": "SMBC日興証券",
     "asset_type": "stock",
     "asset_class": "国内株式",
@@ -107,8 +107,8 @@
     "quantity": 1100,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 6250200,
-    "profit_loss": 2456300,
+    "valuation": 6253500,
+    "profit_loss": 2459600,
     "profit_loss_pct": null
   },
   {
