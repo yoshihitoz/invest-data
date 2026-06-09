@@ -786,17 +786,17 @@
   {
     "username": "yoshihito",
     "source": "Nikko for One",
-    "snapshot_at": "2026-06-08T16:04:05.001163",
+    "snapshot_at": "2026-06-09T09:20:45.210957",
     "account_category": "持株会",
     "asset_type": "stock",
     "asset_class": "国内株式",
     "ticker_code": "6532",
     "asset_name": "持株会(6532)",
     "quantity": 1145,
-    "current_price": 5962.0,
+    "current_price": 5970.0,
     "acquisition_price": 4940.0,
-    "valuation": 6824576,
-    "profit_loss": 1169862,
+    "valuation": 6833733,
+    "profit_loss": 1179019,
     "profit_loss_pct": null
   },
   {
