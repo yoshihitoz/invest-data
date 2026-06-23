@@ -402,16 +402,16 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-06-22T16:08:41.045428",
+    "snapshot_at": "2026-06-23T09:25:29.836226",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
     "ticker_code": "BTC",
     "asset_name": "BTC",
     "quantity": 0,
-    "current_price": 10367555.0,
+    "current_price": 10319884.0,
     "acquisition_price": null,
-    "valuation": 1159432,
+    "valuation": 1154101,
     "profit_loss": null,
     "profit_loss_pct": null
   },
@@ -434,7 +434,7 @@
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-06-22T16:08:41.045428",
+    "snapshot_at": "2026-06-23T09:25:29.836226",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
