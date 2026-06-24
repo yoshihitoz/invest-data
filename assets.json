@@ -53,8 +53,8 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI 401K",
-    "snapshot_at": "2026-06-23T16:07:34.898463",
-    "valuation": 10967357,
+    "snapshot_at": "2026-06-24T09:29:35.991046",
+    "valuation": 10832801,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -103,9 +103,9 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "みずほDC",
-    "snapshot_at": "2026-06-23T16:07:45.002950",
-    "valuation": 1665927,
-    "profit_loss": 400927,
+    "snapshot_at": "2026-06-24T09:29:47.059290",
+    "valuation": 1661842,
+    "profit_loss": 396842,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
