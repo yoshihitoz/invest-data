@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T04:05:02.209661",
+  "updated_at": "2026-07-03T04:10:01.490222",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -22,23 +22,23 @@
   "monthly_summary": [
     {
       "billing_month": "2026-08",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 99492.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-08",
       "issuer_code": "rakuten",
       "card_label": "楽天カード",
       "total_amount": 1000.0,
       "count": 1
     },
     {
-      "billing_month": "2026-07",
-      "issuer_code": "rakuten",
-      "card_label": "楽天カード",
-      "total_amount": 100000.0,
+      "billing_month": "2026-08",
+      "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 10000.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-08",
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 99492.0,
       "count": 1
     },
     {
@@ -50,13 +50,6 @@
     },
     {
       "billing_month": "2026-07",
-      "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 451567.0,
-      "count": 93
-    },
-    {
-      "billing_month": "2026-07",
       "issuer_code": "au",
       "card_label": "au PAYカード",
       "total_amount": 100265.0,
@@ -65,8 +58,22 @@
     {
       "billing_month": "2026-07",
       "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 453267.0,
+      "count": 94
+    },
+    {
+      "billing_month": "2026-07",
+      "issuer_code": "smbc",
       "card_label": "エブリプラス",
       "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-07",
+      "issuer_code": "rakuten",
+      "card_label": "楽天カード",
+      "total_amount": 100000.0,
       "count": 1
     },
     {
@@ -79,16 +86,9 @@
     {
       "billing_month": "2026-06",
       "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 613423.0,
-      "count": 96
-    },
-    {
-      "billing_month": "2026-06",
-      "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
+      "card_label": "三井住友ゴールドＭ　ＮＬ",
+      "total_amount": 4109.0,
+      "count": 2
     },
     {
       "billing_month": "2026-06",
@@ -100,9 +100,16 @@
     {
       "billing_month": "2026-06",
       "issuer_code": "smbc",
-      "card_label": "三井住友ゴールドＭ　ＮＬ",
-      "total_amount": 4109.0,
-      "count": 2
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-06",
+      "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 613423.0,
+      "count": 96
     },
     {
       "billing_month": "2026-05",
@@ -110,13 +117,6 @@
       "card_label": "楽天カード",
       "total_amount": 117881.0,
       "count": 3
-    },
-    {
-      "billing_month": "2026-05",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 99494.0,
-      "count": 1
     },
     {
       "billing_month": "2026-05",
@@ -128,36 +128,22 @@
     {
       "billing_month": "2026-05",
       "issuer_code": "smbc",
+      "card_label": "三井住友ゴールドＭ　ＮＬ",
+      "total_amount": 5167.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-05",
+      "issuer_code": "smbc",
       "card_label": "エブリプラス",
       "total_amount": 390.0,
       "count": 1
     },
     {
       "billing_month": "2026-05",
-      "issuer_code": "smbc",
-      "card_label": "三井住友ゴールドＭ　ＮＬ",
-      "total_amount": 5167.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-04",
-      "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 746575.0,
-      "count": 68
-    },
-    {
-      "billing_month": "2026-04",
       "issuer_code": "au",
       "card_label": "au PAYカード",
       "total_amount": 99494.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-04",
-      "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
       "count": 1
     },
     {
@@ -169,24 +155,38 @@
     },
     {
       "billing_month": "2026-04",
+      "issuer_code": "smbc",
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-04",
       "issuer_code": "rakuten",
       "card_label": "楽天カード",
       "total_amount": 100639.0,
       "count": 3
     },
     {
-      "billing_month": "2026-03",
+      "billing_month": "2026-04",
       "issuer_code": "au",
       "card_label": "au PAYカード",
-      "total_amount": 100109.0,
-      "count": 3
+      "total_amount": 99494.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-04",
+      "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 746575.0,
+      "count": 68
     },
     {
       "billing_month": "2026-03",
       "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 377638.0,
-      "count": 66
+      "card_label": "三井住友ゴールドＭ　ＮＬ",
+      "total_amount": 43200.0,
+      "count": 23
     },
     {
       "billing_month": "2026-03",
@@ -198,6 +198,20 @@
     {
       "billing_month": "2026-03",
       "issuer_code": "smbc",
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-03",
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 100109.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-03",
+      "issuer_code": "smbc",
       "card_label": "Ａｍａｚｏｎ旧ゴールド",
       "total_amount": 31080.0,
       "count": 2
@@ -205,23 +219,9 @@
     {
       "billing_month": "2026-03",
       "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-03",
-      "issuer_code": "smbc",
-      "card_label": "三井住友ゴールドＭ　ＮＬ",
-      "total_amount": 43200.0,
-      "count": 23
-    },
-    {
-      "billing_month": "2026-02",
-      "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 269067.0,
-      "count": 50
+      "total_amount": 377638.0,
+      "count": 66
     },
     {
       "billing_month": "2026-02",
@@ -246,6 +246,13 @@
     },
     {
       "billing_month": "2026-02",
+      "issuer_code": "smbc",
+      "card_label": "Ａｍａｚｏｎ旧ゴールド",
+      "total_amount": 5900.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-02",
       "issuer_code": "au",
       "card_label": "au PAYカード",
       "total_amount": 99496.0,
@@ -254,16 +261,16 @@
     {
       "billing_month": "2026-02",
       "issuer_code": "smbc",
-      "card_label": "Ａｍａｚｏｎ旧ゴールド",
-      "total_amount": 5900.0,
-      "count": 1
+      "card_label": "プラチナプリファード",
+      "total_amount": 269067.0,
+      "count": 50
     },
     {
       "billing_month": "2026-01",
       "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 247322.0,
-      "count": 54
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
+      "count": 1
     },
     {
       "billing_month": "2026-01",
@@ -282,9 +289,9 @@
     {
       "billing_month": "2026-01",
       "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
+      "card_label": "プラチナプリファード",
+      "total_amount": 247322.0,
+      "count": 54
     },
     {
       "billing_month": "2026-01",
@@ -295,10 +302,10 @@
     },
     {
       "billing_month": "2025-12",
-      "issuer_code": "smbc",
-      "card_label": "三井住友ゴールドＭ　ＮＬ",
-      "total_amount": 404263.0,
-      "count": 41
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 99494.0,
+      "count": 1
     },
     {
       "billing_month": "2025-12",
@@ -317,15 +324,15 @@
     {
       "billing_month": "2025-12",
       "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
+      "card_label": "三井住友ゴールドＭ　ＮＬ",
+      "total_amount": 404263.0,
+      "count": 41
     },
     {
       "billing_month": "2025-12",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 99494.0,
+      "issuer_code": "smbc",
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
       "count": 1
     },
     {
@@ -334,13 +341,6 @@
       "card_label": "au PAYカード",
       "total_amount": 99495.0,
       "count": 1
-    },
-    {
-      "billing_month": "2025-11",
-      "issuer_code": "rakuten",
-      "card_label": "楽天カード",
-      "total_amount": 150000.0,
-      "count": 2
     },
     {
       "billing_month": "2025-11",
@@ -357,18 +357,11 @@
       "count": 1
     },
     {
-      "billing_month": "2025-10",
-      "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-10",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 90974.0,
-      "count": 1
+      "billing_month": "2025-11",
+      "issuer_code": "rakuten",
+      "card_label": "楽天カード",
+      "total_amount": 150000.0,
+      "count": 2
     },
     {
       "billing_month": "2025-10",
@@ -379,13 +372,20 @@
     },
     {
       "billing_month": "2025-10",
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 90974.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-10",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
       "total_amount": 536760.0,
       "count": 99
     },
     {
-      "billing_month": "2025-09",
+      "billing_month": "2025-10",
       "issuer_code": "smbc",
       "card_label": "エブリプラス",
       "total_amount": 390.0,
@@ -393,10 +393,10 @@
     },
     {
       "billing_month": "2025-09",
-      "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 455660.0,
-      "count": 94
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 100000.0,
+      "count": 1
     },
     {
       "billing_month": "2025-09",
@@ -407,9 +407,30 @@
     },
     {
       "billing_month": "2025-09",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 100000.0,
+      "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 455660.0,
+      "count": 94
+    },
+    {
+      "billing_month": "2025-09",
+      "issuer_code": "smbc",
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-08",
+      "issuer_code": "rakuten",
+      "card_label": "楽天カード",
+      "total_amount": 150000.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-08",
+      "issuer_code": "smbc",
+      "card_label": "エブリプラス",
+      "total_amount": 390.0,
       "count": 1
     },
     {
@@ -425,27 +446,6 @@
       "card_label": "プラチナプリファード",
       "total_amount": 758497.0,
       "count": 97
-    },
-    {
-      "billing_month": "2025-08",
-      "issuer_code": "smbc",
-      "card_label": "エブリプラス",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-08",
-      "issuer_code": "rakuten",
-      "card_label": "楽天カード",
-      "total_amount": 150000.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-07",
-      "issuer_code": "rakuten",
-      "card_label": "楽天カード",
-      "total_amount": 153210.0,
-      "count": 3
     },
     {
       "billing_month": "2025-07",
@@ -469,11 +469,11 @@
       "count": 98
     },
     {
-      "billing_month": "2025-06",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 100000.0,
-      "count": 1
+      "billing_month": "2025-07",
+      "issuer_code": "rakuten",
+      "card_label": "楽天カード",
+      "total_amount": 153210.0,
+      "count": 3
     },
     {
       "billing_month": "2025-06",
@@ -488,6 +488,13 @@
       "card_label": "楽天カード",
       "total_amount": 147200.0,
       "count": 3
+    },
+    {
+      "billing_month": "2025-06",
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 100000.0,
+      "count": 1
     },
     {
       "billing_month": "2025-05",
@@ -505,17 +512,17 @@
     },
     {
       "billing_month": "2025-05",
-      "issuer_code": "rakuten",
-      "card_label": "楽天カード",
-      "total_amount": 150660.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-05",
       "issuer_code": "smbc",
       "card_label": "エブリプラス",
       "total_amount": 390.0,
       "count": 1
+    },
+    {
+      "billing_month": "2025-05",
+      "issuer_code": "rakuten",
+      "card_label": "楽天カード",
+      "total_amount": 150660.0,
+      "count": 3
     },
     {
       "billing_month": "2025-04",
@@ -526,10 +533,10 @@
     },
     {
       "billing_month": "2025-04",
-      "issuer_code": "smbc",
-      "card_label": "プラチナプリファード",
-      "total_amount": 855076.0,
-      "count": 97
+      "issuer_code": "au",
+      "card_label": "au PAYカード",
+      "total_amount": 100000.0,
+      "count": 1
     },
     {
       "billing_month": "2025-04",
@@ -540,10 +547,10 @@
     },
     {
       "billing_month": "2025-04",
-      "issuer_code": "au",
-      "card_label": "au PAYカード",
-      "total_amount": 100000.0,
-      "count": 1
+      "issuer_code": "smbc",
+      "card_label": "プラチナプリファード",
+      "total_amount": 855076.0,
+      "count": 97
     }
   ],
   "category_monthly": [
@@ -2164,8 +2171,8 @@
     {
       "billing_month": "2026-07",
       "category": "タクシー",
-      "total_amount": 52340.0,
-      "count": 19
+      "total_amount": 54040.0,
+      "count": 20
     },
     {
       "billing_month": "2026-07",
@@ -2224,8 +2231,8 @@
     {
       "billing_month": "2026-08",
       "category": "通販",
-      "total_amount": 1000.0,
-      "count": 1
+      "total_amount": 11000.0,
+      "count": 2
     },
     {
       "billing_month": "2026-08",
