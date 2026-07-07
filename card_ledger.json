@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T04:05:03.557361",
+  "updated_at": "2026-07-08T04:10:02.796366",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -31,8 +31,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 156962.0,
-      "count": 12
+      "total_amount": 193972.0,
+      "count": 14
     },
     {
       "billing_month": "2026-08",
@@ -563,12 +563,6 @@
   "category_monthly": [
     {
       "billing_month": "2025-04",
-      "category": "投資",
-      "total_amount": 300000.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-04",
       "category": "タクシー",
       "total_amount": 113700.0,
       "count": 42
@@ -587,45 +581,9 @@
     },
     {
       "billing_month": "2025-04",
-      "category": "通販",
-      "total_amount": 183369.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2025-04",
       "category": "カフェ",
       "total_amount": 5297.0,
       "count": 4
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "光熱費",
-      "total_amount": 21465.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "ドラッグストア",
-      "total_amount": 192.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "コンビニ",
-      "total_amount": 2255.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "医療",
-      "total_amount": 3850.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "その他",
-      "total_amount": 950.0,
-      "count": 1
     },
     {
       "billing_month": "2025-04",
@@ -635,27 +593,15 @@
     },
     {
       "billing_month": "2025-04",
-      "category": "スーパー",
-      "total_amount": 20245.0,
-      "count": 7
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 15805.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-04",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-04",
       "category": "交通",
       "total_amount": 16930.0,
       "count": 5
+    },
+    {
+      "billing_month": "2025-04",
+      "category": "投資",
+      "total_amount": 300000.0,
+      "count": 3
     },
     {
       "billing_month": "2025-04",
@@ -671,26 +617,62 @@
     },
     {
       "billing_month": "2025-04",
+      "category": "医療",
+      "total_amount": 3850.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-04",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 15805.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-04",
       "category": "外食",
       "total_amount": 85219.0,
       "count": 11
     },
     {
-      "billing_month": "2025-05",
-      "category": "ファッション",
-      "total_amount": 10041.0,
+      "billing_month": "2025-04",
+      "category": "コンビニ",
+      "total_amount": 2255.0,
       "count": 2
     },
     {
-      "billing_month": "2025-05",
-      "category": "タクシー",
-      "total_amount": 116950.0,
-      "count": 36
+      "billing_month": "2025-04",
+      "category": "通販",
+      "total_amount": 183369.0,
+      "count": 5
     },
     {
-      "billing_month": "2025-05",
+      "billing_month": "2025-04",
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-04",
+      "category": "スーパー",
+      "total_amount": 20245.0,
+      "count": 7
+    },
+    {
+      "billing_month": "2025-04",
+      "category": "ドラッグストア",
+      "total_amount": 192.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-04",
       "category": "光熱費",
-      "total_amount": 15370.0,
+      "total_amount": 21465.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-04",
+      "category": "その他",
+      "total_amount": 950.0,
       "count": 1
     },
     {
@@ -701,26 +683,14 @@
     },
     {
       "billing_month": "2025-05",
-      "category": "コンビニ",
-      "total_amount": 6655.0,
-      "count": 11
+      "category": "エンタメ・レジャー",
+      "total_amount": 26405.0,
+      "count": 2
     },
     {
       "billing_month": "2025-05",
-      "category": "通信費",
-      "total_amount": 3483.0,
-      "count": 4
-    },
-    {
-      "billing_month": "2025-05",
-      "category": "交通",
-      "total_amount": 21640.0,
-      "count": 8
-    },
-    {
-      "billing_month": "2025-05",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 14340.0,
+      "category": "ファッション",
+      "total_amount": 10041.0,
       "count": 2
     },
     {
@@ -737,14 +707,38 @@
     },
     {
       "billing_month": "2025-05",
-      "category": "エンタメ・レジャー",
-      "total_amount": 26405.0,
-      "count": 2
+      "category": "コンビニ",
+      "total_amount": 6655.0,
+      "count": 11
     },
     {
       "billing_month": "2025-05",
-      "category": "外食",
-      "total_amount": 107400.0,
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-05",
+      "category": "通信費",
+      "total_amount": 3483.0,
+      "count": 4
+    },
+    {
+      "billing_month": "2025-05",
+      "category": "光熱費",
+      "total_amount": 15370.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-05",
+      "category": "タクシー",
+      "total_amount": 116950.0,
+      "count": 36
+    },
+    {
+      "billing_month": "2025-05",
+      "category": "通販",
+      "total_amount": 76580.0,
       "count": 6
     },
     {
@@ -755,51 +749,27 @@
     },
     {
       "billing_month": "2025-05",
-      "category": "通販",
-      "total_amount": 76580.0,
+      "category": "レンタカー・カーシェア",
+      "total_amount": 14340.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-05",
+      "category": "外食",
+      "total_amount": 107400.0,
       "count": 6
     },
     {
       "billing_month": "2025-05",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "category": "交通",
+      "total_amount": 21640.0,
+      "count": 8
     },
     {
       "billing_month": "2025-06",
-      "category": "カフェ",
-      "total_amount": 1500.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "コンビニ",
-      "total_amount": 3613.0,
+      "category": "通販",
+      "total_amount": 56831.0,
       "count": 5
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "ファッション",
-      "total_amount": 4380.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "サブスク・デジタル",
-      "total_amount": 6610.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "旅行・ホテル",
-      "total_amount": 56000.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "光熱費",
-      "total_amount": 19056.0,
-      "count": 1
     },
     {
       "billing_month": "2025-06",
@@ -815,30 +785,6 @@
     },
     {
       "billing_month": "2025-06",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 19540.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "通販",
-      "total_amount": 56831.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "投資",
-      "total_amount": 300000.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "外食",
-      "total_amount": 39883.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2025-06",
       "category": "タクシー",
       "total_amount": 117700.0,
       "count": 51
@@ -851,15 +797,9 @@
     },
     {
       "billing_month": "2025-06",
-      "category": "エンタメ・レジャー",
-      "total_amount": 1155.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-06",
-      "category": "飛行機",
-      "total_amount": 147950.0,
-      "count": 3
+      "category": "コンビニ",
+      "total_amount": 3613.0,
+      "count": 5
     },
     {
       "billing_month": "2025-06",
@@ -869,9 +809,69 @@
     },
     {
       "billing_month": "2025-06",
+      "category": "旅行・ホテル",
+      "total_amount": 56000.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "ファッション",
+      "total_amount": 4380.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "サブスク・デジタル",
+      "total_amount": 6610.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "飛行機",
+      "total_amount": 147950.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-06",
       "category": "スーパー",
       "total_amount": 14689.0,
       "count": 8
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "投資",
+      "total_amount": 300000.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "エンタメ・レジャー",
+      "total_amount": 1155.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "光熱費",
+      "total_amount": 19056.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "カフェ",
+      "total_amount": 1500.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "外食",
+      "total_amount": 39883.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2025-06",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 19540.0,
+      "count": 2
     },
     {
       "billing_month": "2025-07",
@@ -881,15 +881,45 @@
     },
     {
       "billing_month": "2025-07",
+      "category": "ドラッグストア",
+      "total_amount": 5552.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-07",
+      "category": "通販",
+      "total_amount": 86879.0,
+      "count": 10
+    },
+    {
+      "billing_month": "2025-07",
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-07",
+      "category": "外食",
+      "total_amount": 136764.0,
+      "count": 10
+    },
+    {
+      "billing_month": "2025-07",
+      "category": "カフェ",
+      "total_amount": 3350.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-07",
       "category": "サブスク・デジタル",
       "total_amount": 4410.0,
       "count": 2
     },
     {
       "billing_month": "2025-07",
-      "category": "スーパー",
-      "total_amount": 49593.0,
-      "count": 16
+      "category": "飛行機",
+      "total_amount": 19550.0,
+      "count": 1
     },
     {
       "billing_month": "2025-07",
@@ -905,24 +935,6 @@
     },
     {
       "billing_month": "2025-07",
-      "category": "ドラッグストア",
-      "total_amount": 5552.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-07",
-      "category": "カフェ",
-      "total_amount": 3350.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-07",
-      "category": "通販",
-      "total_amount": 86879.0,
-      "count": 10
-    },
-    {
-      "billing_month": "2025-07",
       "category": "旅行・ホテル",
       "total_amount": 316708.0,
       "count": 1
@@ -935,15 +947,15 @@
     },
     {
       "billing_month": "2025-07",
-      "category": "通信費",
-      "total_amount": 3448.0,
-      "count": 2
+      "category": "投資",
+      "total_amount": 300000.0,
+      "count": 3
     },
     {
       "billing_month": "2025-07",
-      "category": "外食",
-      "total_amount": 136764.0,
-      "count": 10
+      "category": "スーパー",
+      "total_amount": 49593.0,
+      "count": 16
     },
     {
       "billing_month": "2025-07",
@@ -953,21 +965,21 @@
     },
     {
       "billing_month": "2025-07",
-      "category": "飛行機",
-      "total_amount": 19550.0,
+      "category": "通信費",
+      "total_amount": 3448.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "ファッション",
+      "total_amount": 47721.0,
       "count": 1
     },
     {
-      "billing_month": "2025-07",
-      "category": "投資",
-      "total_amount": 300000.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-07",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "billing_month": "2025-08",
+      "category": "スーパー",
+      "total_amount": 20578.0,
+      "count": 6
     },
     {
       "billing_month": "2025-08",
@@ -977,15 +989,39 @@
     },
     {
       "billing_month": "2025-08",
-      "category": "コンビニ",
-      "total_amount": 7183.0,
-      "count": 8
-    },
-    {
-      "billing_month": "2025-08",
       "category": "通販",
       "total_amount": 111219.0,
       "count": 13
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "光熱費",
+      "total_amount": 16776.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "通信費",
+      "total_amount": 3052.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "旅行・ホテル",
+      "total_amount": 232577.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "サブスク・デジタル",
+      "total_amount": 4410.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "投資",
+      "total_amount": 300000.0,
+      "count": 3
     },
     {
       "billing_month": "2025-08",
@@ -995,15 +1031,21 @@
     },
     {
       "billing_month": "2025-08",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "category": "コンビニ",
+      "total_amount": 7183.0,
+      "count": 8
     },
     {
       "billing_month": "2025-08",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 5200.0,
-      "count": 3
+      "category": "外食",
+      "total_amount": 53091.0,
+      "count": 10
+    },
+    {
+      "billing_month": "2025-08",
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
     },
     {
       "billing_month": "2025-08",
@@ -1025,56 +1067,26 @@
     },
     {
       "billing_month": "2025-08",
-      "category": "外食",
-      "total_amount": 53091.0,
-      "count": 10
-    },
-    {
-      "billing_month": "2025-08",
-      "category": "投資",
-      "total_amount": 300000.0,
+      "category": "レンタカー・カーシェア",
+      "total_amount": 5200.0,
       "count": 3
     },
     {
-      "billing_month": "2025-08",
-      "category": "光熱費",
-      "total_amount": 16776.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-08",
-      "category": "通信費",
-      "total_amount": 3052.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-08",
-      "category": "スーパー",
-      "total_amount": 20578.0,
-      "count": 6
-    },
-    {
-      "billing_month": "2025-08",
-      "category": "サブスク・デジタル",
-      "total_amount": 4410.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-08",
-      "category": "旅行・ホテル",
-      "total_amount": 232577.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-08",
+      "billing_month": "2025-09",
       "category": "ファッション",
-      "total_amount": 47721.0,
-      "count": 1
+      "total_amount": 28758.0,
+      "count": 2
     },
     {
       "billing_month": "2025-09",
-      "category": "保険",
-      "total_amount": 390.0,
+      "category": "スーパー",
+      "total_amount": 19445.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2025-09",
+      "category": "光熱費",
+      "total_amount": 18390.0,
       "count": 1
     },
     {
@@ -1082,18 +1094,6 @@
       "category": "コンビニ",
       "total_amount": 1281.0,
       "count": 3
-    },
-    {
-      "billing_month": "2025-09",
-      "category": "タクシー",
-      "total_amount": 90330.0,
-      "count": 52
-    },
-    {
-      "billing_month": "2025-09",
-      "category": "通販",
-      "total_amount": 70250.0,
-      "count": 4
     },
     {
       "billing_month": "2025-09",
@@ -1109,33 +1109,15 @@
     },
     {
       "billing_month": "2025-09",
-      "category": "通信費",
-      "total_amount": 3834.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-09",
-      "category": "スーパー",
-      "total_amount": 19445.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2025-09",
-      "category": "ファッション",
-      "total_amount": 28758.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-09",
       "category": "サブスク・デジタル",
       "total_amount": 13950.0,
       "count": 3
     },
     {
       "billing_month": "2025-09",
-      "category": "エンタメ・レジャー",
-      "total_amount": 9800.0,
-      "count": 2
+      "category": "タクシー",
+      "total_amount": 90330.0,
+      "count": 52
     },
     {
       "billing_month": "2025-09",
@@ -1151,9 +1133,15 @@
     },
     {
       "billing_month": "2025-09",
-      "category": "光熱費",
-      "total_amount": 18390.0,
+      "category": "保険",
+      "total_amount": 390.0,
       "count": 1
+    },
+    {
+      "billing_month": "2025-09",
+      "category": "通信費",
+      "total_amount": 3834.0,
+      "count": 2
     },
     {
       "billing_month": "2025-09",
@@ -1162,34 +1150,16 @@
       "count": 6
     },
     {
-      "billing_month": "2025-10",
-      "category": "医療",
-      "total_amount": 2240.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "ふるさと納税",
-      "total_amount": 235500.0,
-      "count": 14
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "交通",
-      "total_amount": 14440.0,
-      "count": 7
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "タクシー",
-      "total_amount": 80080.0,
-      "count": 32
-    },
-    {
-      "billing_month": "2025-10",
+      "billing_month": "2025-09",
       "category": "エンタメ・レジャー",
-      "total_amount": 3760.0,
+      "total_amount": 9800.0,
       "count": 2
+    },
+    {
+      "billing_month": "2025-09",
+      "category": "通販",
+      "total_amount": 70250.0,
+      "count": 4
     },
     {
       "billing_month": "2025-10",
@@ -1199,15 +1169,93 @@
     },
     {
       "billing_month": "2025-10",
+      "category": "旅行・ホテル",
+      "total_amount": 21260.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "タクシー",
+      "total_amount": 80080.0,
+      "count": 32
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "その他",
+      "total_amount": 5350.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "エンタメ・レジャー",
+      "total_amount": 3760.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "通販",
+      "total_amount": 50395.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "ファッション",
+      "total_amount": 1580.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "コンビニ",
+      "total_amount": 6830.0,
+      "count": 10
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "交通",
+      "total_amount": 14440.0,
+      "count": 7
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 10440.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "投資",
+      "total_amount": 290974.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "保険",
+      "total_amount": 8780.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-10",
       "category": "スーパー",
       "total_amount": 49422.0,
       "count": 15
     },
     {
       "billing_month": "2025-10",
-      "category": "サブスク・デジタル",
-      "total_amount": 4410.0,
-      "count": 2
+      "category": "医療",
+      "total_amount": 2240.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "光熱費",
+      "total_amount": 13574.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-10",
+      "category": "ふるさと納税",
+      "total_amount": 235500.0,
+      "count": 14
     },
     {
       "billing_month": "2025-10",
@@ -1223,57 +1271,9 @@
     },
     {
       "billing_month": "2025-10",
-      "category": "コンビニ",
-      "total_amount": 6830.0,
-      "count": 10
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "光熱費",
-      "total_amount": 13574.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "投資",
-      "total_amount": 290974.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "旅行・ホテル",
-      "total_amount": 21260.0,
+      "category": "サブスク・デジタル",
+      "total_amount": 4410.0,
       "count": 2
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "その他",
-      "total_amount": 5350.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "通販",
-      "total_amount": 50395.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 10440.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "保険",
-      "total_amount": 8780.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-10",
-      "category": "ファッション",
-      "total_amount": 1580.0,
-      "count": 1
     },
     {
       "billing_month": "2025-11",
@@ -1283,14 +1283,26 @@
     },
     {
       "billing_month": "2025-11",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "category": "投資",
+      "total_amount": 299495.0,
+      "count": 3
     },
     {
       "billing_month": "2025-11",
-      "category": "医療",
-      "total_amount": 7500.0,
+      "category": "サブスク・デジタル",
+      "total_amount": 4410.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-11",
+      "category": "スーパー",
+      "total_amount": 9307.0,
+      "count": 6
+    },
+    {
+      "billing_month": "2025-11",
+      "category": "その他",
+      "total_amount": 10271.0,
       "count": 1
     },
     {
@@ -1301,21 +1313,21 @@
     },
     {
       "billing_month": "2025-11",
-      "category": "通信費",
-      "total_amount": 3074.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-11",
-      "category": "その他",
-      "total_amount": 10271.0,
+      "category": "保険",
+      "total_amount": 390.0,
       "count": 1
     },
     {
       "billing_month": "2025-11",
-      "category": "スーパー",
-      "total_amount": 9307.0,
-      "count": 6
+      "category": "ドラッグストア",
+      "total_amount": 6335.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-11",
+      "category": "医療",
+      "total_amount": 7500.0,
+      "count": 1
     },
     {
       "billing_month": "2025-11",
@@ -1325,27 +1337,15 @@
     },
     {
       "billing_month": "2025-11",
-      "category": "ファッション",
-      "total_amount": 7750.0,
-      "count": 2
+      "category": "外食",
+      "total_amount": 86122.0,
+      "count": 17
     },
     {
       "billing_month": "2025-11",
-      "category": "コンビニ",
-      "total_amount": 4950.0,
-      "count": 7
-    },
-    {
-      "billing_month": "2025-11",
-      "category": "サブスク・デジタル",
-      "total_amount": 4410.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-11",
-      "category": "通販",
-      "total_amount": 106558.0,
-      "count": 6
+      "category": "タクシー",
+      "total_amount": 52100.0,
+      "count": 17
     },
     {
       "billing_month": "2025-11",
@@ -1361,45 +1361,27 @@
     },
     {
       "billing_month": "2025-11",
-      "category": "投資",
-      "total_amount": 299495.0,
-      "count": 3
+      "category": "通販",
+      "total_amount": 106558.0,
+      "count": 6
     },
     {
       "billing_month": "2025-11",
-      "category": "タクシー",
-      "total_amount": 52100.0,
-      "count": 17
-    },
-    {
-      "billing_month": "2025-11",
-      "category": "ドラッグストア",
-      "total_amount": 6335.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-11",
-      "category": "外食",
-      "total_amount": 86122.0,
-      "count": 17
-    },
-    {
-      "billing_month": "2025-12",
-      "category": "ファッション",
-      "total_amount": 16540.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2025-12",
       "category": "通信費",
-      "total_amount": 3416.0,
+      "total_amount": 3074.0,
       "count": 2
     },
     {
-      "billing_month": "2025-12",
-      "category": "旅行・ホテル",
-      "total_amount": 12848.0,
-      "count": 1
+      "billing_month": "2025-11",
+      "category": "ファッション",
+      "total_amount": 7750.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-11",
+      "category": "コンビニ",
+      "total_amount": 4950.0,
+      "count": 7
     },
     {
       "billing_month": "2025-12",
@@ -1409,33 +1391,21 @@
     },
     {
       "billing_month": "2025-12",
-      "category": "飛行機",
-      "total_amount": 33482.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-12",
-      "category": "カフェ",
-      "total_amount": 17973.0,
-      "count": 4
-    },
-    {
-      "billing_month": "2025-12",
-      "category": "ドラッグストア",
-      "total_amount": 470.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-12",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 16500.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2025-12",
       "category": "エンタメ・レジャー",
       "total_amount": 850.0,
       "count": 1
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "サブスク・デジタル",
+      "total_amount": 185210.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "通信費",
+      "total_amount": 3416.0,
+      "count": 2
     },
     {
       "billing_month": "2025-12",
@@ -1445,20 +1415,14 @@
     },
     {
       "billing_month": "2025-12",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2025-12",
       "category": "タクシー",
       "total_amount": 105970.0,
       "count": 43
     },
     {
       "billing_month": "2025-12",
-      "category": "光熱費",
-      "total_amount": 13677.0,
+      "category": "ドラッグストア",
+      "total_amount": 470.0,
       "count": 1
     },
     {
@@ -1469,9 +1433,45 @@
     },
     {
       "billing_month": "2025-12",
+      "category": "カフェ",
+      "total_amount": 17973.0,
+      "count": 4
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "旅行・ホテル",
+      "total_amount": 12848.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "ファッション",
+      "total_amount": 16540.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "飛行機",
+      "total_amount": 33482.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2025-12",
       "category": "通販",
       "total_amount": 78351.0,
       "count": 7
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 16500.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2025-12",
+      "category": "光熱費",
+      "total_amount": 13677.0,
+      "count": 1
     },
     {
       "billing_month": "2025-12",
@@ -1481,98 +1481,8 @@
     },
     {
       "billing_month": "2025-12",
-      "category": "サブスク・デジタル",
-      "total_amount": 185210.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "ファッション",
-      "total_amount": 26268.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "通販",
-      "total_amount": 99923.0,
-      "count": 7
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "エンタメ・レジャー",
-      "total_amount": 17220.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "その他",
-      "total_amount": 653.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "投資",
-      "total_amount": 299539.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 33330.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "通信費",
-      "total_amount": 3826.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "ドラッグストア",
-      "total_amount": 6767.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-01",
       "category": "保険",
       "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "交通",
-      "total_amount": 7210.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "カフェ",
-      "total_amount": 29210.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "外食",
-      "total_amount": 213447.0,
-      "count": 12
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "タクシー",
-      "total_amount": 95150.0,
-      "count": 41
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "スーパー",
-      "total_amount": 68479.0,
-      "count": 25
-    },
-    {
-      "billing_month": "2026-01",
-      "category": "光熱費",
-      "total_amount": 17149.0,
       "count": 1
     },
     {
@@ -1583,99 +1493,105 @@
     },
     {
       "billing_month": "2026-01",
-      "category": "コンビニ",
-      "total_amount": 6043.0,
-      "count": 6
-    },
-    {
-      "billing_month": "2026-02",
-      "category": "スーパー",
-      "total_amount": 32357.0,
-      "count": 17
-    },
-    {
-      "billing_month": "2026-02",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 24735.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-02",
-      "category": "コンビニ",
-      "total_amount": 7622.0,
-      "count": 8
-    },
-    {
-      "billing_month": "2026-02",
       "category": "カフェ",
-      "total_amount": 5786.0,
-      "count": 3
+      "total_amount": 29210.0,
+      "count": 1
     },
     {
-      "billing_month": "2026-02",
-      "category": "交通",
-      "total_amount": 23268.0,
-      "count": 9
-    },
-    {
-      "billing_month": "2026-02",
+      "billing_month": "2026-01",
       "category": "保険",
       "total_amount": 390.0,
       "count": 1
     },
     {
-      "billing_month": "2026-02",
-      "category": "ファッション",
-      "total_amount": 23450.0,
-      "count": 2
+      "billing_month": "2026-01",
+      "category": "通販",
+      "total_amount": 99923.0,
+      "count": 7
     },
     {
-      "billing_month": "2026-02",
-      "category": "タクシー",
-      "total_amount": 101620.0,
-      "count": 34
-    },
-    {
-      "billing_month": "2026-02",
-      "category": "その他",
-      "total_amount": 9871.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-02",
-      "category": "ドラッグストア",
-      "total_amount": 3016.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-02",
+      "billing_month": "2026-01",
       "category": "通信費",
-      "total_amount": 3574.0,
+      "total_amount": 3826.0,
       "count": 3
     },
     {
-      "billing_month": "2026-02",
-      "category": "旅行・ホテル",
-      "total_amount": 290800.0,
+      "billing_month": "2026-01",
+      "category": "コンビニ",
+      "total_amount": 6043.0,
       "count": 6
     },
     {
-      "billing_month": "2026-02",
-      "category": "ふるさと納税",
-      "total_amount": 433571.0,
-      "count": 18
+      "billing_month": "2026-01",
+      "category": "外食",
+      "total_amount": 213447.0,
+      "count": 12
     },
     {
-      "billing_month": "2026-02",
+      "billing_month": "2026-01",
       "category": "投資",
-      "total_amount": 299496.0,
+      "total_amount": 299539.0,
       "count": 3
     },
     {
-      "billing_month": "2026-02",
+      "billing_month": "2026-01",
+      "category": "スーパー",
+      "total_amount": 68479.0,
+      "count": 25
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "交通",
+      "total_amount": 7210.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "タクシー",
+      "total_amount": 95150.0,
+      "count": 41
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "ファッション",
+      "total_amount": 26268.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "エンタメ・レジャー",
+      "total_amount": 17220.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "ドラッグストア",
+      "total_amount": 6767.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-01",
       "category": "光熱費",
-      "total_amount": 18525.0,
+      "total_amount": 17149.0,
       "count": 1
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 33330.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-01",
+      "category": "その他",
+      "total_amount": 653.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "医療",
+      "total_amount": 2194.0,
+      "count": 2
     },
     {
       "billing_month": "2026-02",
@@ -1691,15 +1607,51 @@
     },
     {
       "billing_month": "2026-02",
+      "category": "ふるさと納税",
+      "total_amount": 433571.0,
+      "count": 18
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "タクシー",
+      "total_amount": 101620.0,
+      "count": 34
+    },
+    {
+      "billing_month": "2026-02",
       "category": "通販",
       "total_amount": 71398.0,
       "count": 6
     },
     {
       "billing_month": "2026-02",
-      "category": "医療",
-      "total_amount": 2194.0,
-      "count": 2
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "スーパー",
+      "total_amount": 32357.0,
+      "count": 17
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "その他",
+      "total_amount": 9871.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "投資",
+      "total_amount": 299496.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "交通",
+      "total_amount": 23268.0,
+      "count": 9
     },
     {
       "billing_month": "2026-02",
@@ -1708,63 +1660,57 @@
       "count": 2
     },
     {
-      "billing_month": "2026-03",
-      "category": "ファッション",
-      "total_amount": 6600.0,
+      "billing_month": "2026-02",
+      "category": "光熱費",
+      "total_amount": 18525.0,
       "count": 1
     },
     {
-      "billing_month": "2026-03",
-      "category": "サブスク・デジタル",
-      "total_amount": 26002.0,
-      "count": 4
+      "billing_month": "2026-02",
+      "category": "ドラッグストア",
+      "total_amount": 3016.0,
+      "count": 2
     },
     {
-      "billing_month": "2026-03",
-      "category": "タクシー",
-      "total_amount": 83470.0,
-      "count": 26
+      "billing_month": "2026-02",
+      "category": "旅行・ホテル",
+      "total_amount": 290800.0,
+      "count": 6
     },
     {
-      "billing_month": "2026-03",
+      "billing_month": "2026-02",
+      "category": "ファッション",
+      "total_amount": 23450.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-02",
+      "category": "コンビニ",
+      "total_amount": 7622.0,
+      "count": 8
+    },
+    {
+      "billing_month": "2026-02",
       "category": "通信費",
-      "total_amount": 3375.0,
+      "total_amount": 3574.0,
       "count": 3
     },
     {
-      "billing_month": "2026-03",
-      "category": "通販",
-      "total_amount": 58076.0,
-      "count": 5
+      "billing_month": "2026-02",
+      "category": "カフェ",
+      "total_amount": 5786.0,
+      "count": 3
     },
     {
-      "billing_month": "2026-03",
-      "category": "ドラッグストア",
-      "total_amount": 4780.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2026-03",
+      "billing_month": "2026-02",
       "category": "レンタカー・カーシェア",
-      "total_amount": 7700.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-03",
-      "category": "スーパー",
-      "total_amount": 35371.0,
-      "count": 18
+      "total_amount": 24735.0,
+      "count": 2
     },
     {
       "billing_month": "2026-03",
       "category": "その他",
       "total_amount": 614.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-03",
-      "category": "カフェ",
-      "total_amount": 9613.0,
       "count": 2
     },
     {
@@ -1775,26 +1721,56 @@
     },
     {
       "billing_month": "2026-03",
+      "category": "通信費",
+      "total_amount": 3375.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "タクシー",
+      "total_amount": 83470.0,
+      "count": 26
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "光熱費",
+      "total_amount": 16223.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "ドラッグストア",
+      "total_amount": 4780.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2026-03",
       "category": "旅行・ホテル",
       "total_amount": 12000.0,
       "count": 2
     },
     {
       "billing_month": "2026-03",
-      "category": "外食",
-      "total_amount": 93937.0,
-      "count": 8
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
     },
     {
       "billing_month": "2026-03",
-      "category": "コンビニ",
-      "total_amount": 2867.0,
-      "count": 4
+      "category": "ファッション",
+      "total_amount": 6600.0,
+      "count": 1
     },
     {
       "billing_month": "2026-03",
-      "category": "光熱費",
-      "total_amount": 16223.0,
+      "category": "スーパー",
+      "total_amount": 35371.0,
+      "count": 18
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 7700.0,
       "count": 1
     },
     {
@@ -1805,45 +1781,39 @@
     },
     {
       "billing_month": "2026-03",
-      "category": "医療",
-      "total_amount": 10720.0,
-      "count": 9
+      "category": "外食",
+      "total_amount": 93937.0,
+      "count": 8
     },
     {
       "billing_month": "2026-03",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "category": "サブスク・デジタル",
+      "total_amount": 26002.0,
+      "count": 4
     },
     {
-      "billing_month": "2026-04",
-      "category": "タクシー",
-      "total_amount": 67940.0,
-      "count": 22
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "コンビニ",
-      "total_amount": 6164.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "通販",
-      "total_amount": 37639.0,
-      "count": 5
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "医療",
-      "total_amount": 1370.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 15962.0,
+      "billing_month": "2026-03",
+      "category": "カフェ",
+      "total_amount": 9613.0,
       "count": 2
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "通販",
+      "total_amount": 58076.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "コンビニ",
+      "total_amount": 2867.0,
+      "count": 4
+    },
+    {
+      "billing_month": "2026-03",
+      "category": "医療",
+      "total_amount": 10720.0,
+      "count": 9
     },
     {
       "billing_month": "2026-04",
@@ -1853,9 +1823,9 @@
     },
     {
       "billing_month": "2026-04",
-      "category": "ドラッグストア",
-      "total_amount": 2233.0,
-      "count": 2
+      "category": "外食",
+      "total_amount": 49073.0,
+      "count": 10
     },
     {
       "billing_month": "2026-04",
@@ -1865,50 +1835,14 @@
     },
     {
       "billing_month": "2026-04",
-      "category": "サブスク・デジタル",
-      "total_amount": 4410.0,
+      "category": "ドラッグストア",
+      "total_amount": 2233.0,
       "count": 2
     },
     {
       "billing_month": "2026-04",
-      "category": "交通",
-      "total_amount": 5760.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "その他",
-      "total_amount": 9600.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "外食",
-      "total_amount": 49073.0,
-      "count": 10
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "スーパー",
-      "total_amount": 26948.0,
-      "count": 9
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "エンタメ・レジャー",
-      "total_amount": 71200.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "飛行機",
-      "total_amount": 47210.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-04",
-      "category": "保険",
-      "total_amount": 390.0,
+      "category": "医療",
+      "total_amount": 1370.0,
       "count": 1
     },
     {
@@ -1919,39 +1853,75 @@
     },
     {
       "billing_month": "2026-04",
+      "category": "タクシー",
+      "total_amount": 67940.0,
+      "count": 22
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "サブスク・デジタル",
+      "total_amount": 4410.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 15962.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "通販",
+      "total_amount": 37639.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "交通",
+      "total_amount": 5760.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "コンビニ",
+      "total_amount": 6164.0,
+      "count": 5
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "飛行機",
+      "total_amount": 47210.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-04",
       "category": "投資",
       "total_amount": 274494.0,
       "count": 3
     },
     {
-      "billing_month": "2026-05",
+      "billing_month": "2026-04",
       "category": "スーパー",
-      "total_amount": 50441.0,
-      "count": 24
+      "total_amount": 26948.0,
+      "count": 9
     },
     {
-      "billing_month": "2026-05",
-      "category": "タクシー",
-      "total_amount": 94710.0,
-      "count": 29
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "サブスク・デジタル",
-      "total_amount": 33400.0,
-      "count": 6
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "カフェ",
-      "total_amount": 1650.0,
+      "billing_month": "2026-04",
+      "category": "保険",
+      "total_amount": 390.0,
       "count": 1
     },
     {
-      "billing_month": "2026-05",
+      "billing_month": "2026-04",
       "category": "エンタメ・レジャー",
-      "total_amount": 6400.0,
-      "count": 1
+      "total_amount": 71200.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-04",
+      "category": "その他",
+      "total_amount": 9600.0,
+      "count": 2
     },
     {
       "billing_month": "2026-05",
@@ -1961,44 +1931,14 @@
     },
     {
       "billing_month": "2026-05",
-      "category": "交通",
-      "total_amount": 110.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-05",
       "category": "通販",
       "total_amount": 87000.0,
       "count": 7
     },
     {
       "billing_month": "2026-05",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 9500.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "通信費",
-      "total_amount": 3891.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "外食",
-      "total_amount": 237470.0,
-      "count": 21
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "光熱費",
-      "total_amount": 16559.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-05",
-      "category": "旅行・ホテル",
-      "total_amount": 8381.0,
+      "category": "ファッション",
+      "total_amount": 3358.0,
       "count": 1
     },
     {
@@ -2009,15 +1949,21 @@
     },
     {
       "billing_month": "2026-05",
-      "category": "ドラッグストア",
-      "total_amount": 1210.0,
+      "category": "旅行・ホテル",
+      "total_amount": 8381.0,
       "count": 1
     },
     {
       "billing_month": "2026-05",
-      "category": "ファッション",
-      "total_amount": 3358.0,
-      "count": 1
+      "category": "外食",
+      "total_amount": 237470.0,
+      "count": 21
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "スーパー",
+      "total_amount": 50441.0,
+      "count": 24
     },
     {
       "billing_month": "2026-05",
@@ -2026,16 +1972,64 @@
       "count": 1
     },
     {
-      "billing_month": "2026-06",
-      "category": "外食",
-      "total_amount": 181738.0,
-      "count": 21
+      "billing_month": "2026-05",
+      "category": "エンタメ・レジャー",
+      "total_amount": 6400.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "通信費",
+      "total_amount": 3891.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "ドラッグストア",
+      "total_amount": 1210.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "カフェ",
+      "total_amount": 1650.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "交通",
+      "total_amount": 110.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "レンタカー・カーシェア",
+      "total_amount": 9500.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "タクシー",
+      "total_amount": 94710.0,
+      "count": 29
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "光熱費",
+      "total_amount": 16559.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-05",
+      "category": "サブスク・デジタル",
+      "total_amount": 33400.0,
+      "count": 6
     },
     {
       "billing_month": "2026-06",
-      "category": "通信費",
-      "total_amount": 3499.0,
-      "count": 3
+      "category": "カフェ",
+      "total_amount": 1173.0,
+      "count": 1
     },
     {
       "billing_month": "2026-06",
@@ -2045,33 +2039,9 @@
     },
     {
       "billing_month": "2026-06",
-      "category": "レンタカー・カーシェア",
-      "total_amount": 22880.0,
+      "category": "飛行機",
+      "total_amount": 13210.0,
       "count": 1
-    },
-    {
-      "billing_month": "2026-06",
-      "category": "通販",
-      "total_amount": 14879.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-06",
-      "category": "その他",
-      "total_amount": 891.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-06",
-      "category": "サブスク・デジタル",
-      "total_amount": 54421.0,
-      "count": 7
-    },
-    {
-      "billing_month": "2026-06",
-      "category": "スーパー",
-      "total_amount": 61793.0,
-      "count": 22
     },
     {
       "billing_month": "2026-06",
@@ -2087,27 +2057,27 @@
     },
     {
       "billing_month": "2026-06",
-      "category": "エンタメ・レジャー",
-      "total_amount": 4330.0,
-      "count": 2
-    },
-    {
-      "billing_month": "2026-06",
-      "category": "カフェ",
-      "total_amount": 1173.0,
+      "category": "レンタカー・カーシェア",
+      "total_amount": 22880.0,
       "count": 1
     },
     {
       "billing_month": "2026-06",
-      "category": "光熱費",
-      "total_amount": 16771.0,
-      "count": 1
+      "category": "通販",
+      "total_amount": 14879.0,
+      "count": 3
     },
     {
       "billing_month": "2026-06",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
+      "category": "通信費",
+      "total_amount": 3499.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "外食",
+      "total_amount": 181738.0,
+      "count": 21
     },
     {
       "billing_month": "2026-06",
@@ -2117,9 +2087,33 @@
     },
     {
       "billing_month": "2026-06",
-      "category": "旅行・ホテル",
-      "total_amount": 92664.0,
-      "count": 3
+      "category": "スーパー",
+      "total_amount": 61793.0,
+      "count": 22
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "その他",
+      "total_amount": 891.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "サブスク・デジタル",
+      "total_amount": 54421.0,
+      "count": 7
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "保険",
+      "total_amount": 390.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "エンタメ・レジャー",
+      "total_amount": 4330.0,
+      "count": 2
     },
     {
       "billing_month": "2026-06",
@@ -2129,20 +2123,98 @@
     },
     {
       "billing_month": "2026-06",
+      "category": "光熱費",
+      "total_amount": 16771.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-06",
+      "category": "旅行・ホテル",
+      "total_amount": 92664.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-06",
       "category": "ドラッグストア",
       "total_amount": 304.0,
       "count": 1
     },
     {
-      "billing_month": "2026-06",
-      "category": "飛行機",
-      "total_amount": 13210.0,
+      "billing_month": "2026-07",
+      "category": "エンタメ・レジャー",
+      "total_amount": 850.0,
       "count": 1
     },
     {
       "billing_month": "2026-07",
-      "category": "通販",
-      "total_amount": 3000.0,
+      "category": "スーパー",
+      "total_amount": 66580.0,
+      "count": 23
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "外食",
+      "total_amount": 50285.0,
+      "count": 13
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "通信費",
+      "total_amount": 4084.0,
+      "count": 4
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "コンビニ",
+      "total_amount": 8826.0,
+      "count": 10
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "ドラッグストア",
+      "total_amount": 1680.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "タクシー",
+      "total_amount": 54040.0,
+      "count": 20
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "カフェ",
+      "total_amount": 3120.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "その他",
+      "total_amount": 117837.0,
+      "count": 15
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "医療",
+      "total_amount": 3050.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "投資",
+      "total_amount": 299493.0,
+      "count": 3
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "交通",
+      "total_amount": 460.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-07",
+      "category": "保険",
+      "total_amount": 390.0,
       "count": 1
     },
     {
@@ -2159,86 +2231,8 @@
     },
     {
       "billing_month": "2026-07",
-      "category": "通信費",
-      "total_amount": 4084.0,
-      "count": 4
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "コンビニ",
-      "total_amount": 8826.0,
-      "count": 10
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "医療",
-      "total_amount": 3050.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "投資",
-      "total_amount": 299493.0,
-      "count": 3
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "その他",
-      "total_amount": 117837.0,
-      "count": 15
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "スーパー",
-      "total_amount": 66580.0,
-      "count": 23
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "ドラッグストア",
-      "total_amount": 1680.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "外食",
-      "total_amount": 50285.0,
-      "count": 13
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "エンタメ・レジャー",
-      "total_amount": 850.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "カフェ",
-      "total_amount": 3120.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "交通",
-      "total_amount": 460.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "保険",
-      "total_amount": 390.0,
-      "count": 1
-    },
-    {
-      "billing_month": "2026-07",
-      "category": "タクシー",
-      "total_amount": 54040.0,
-      "count": 20
-    },
-    {
-      "billing_month": "2026-08",
-      "category": "投資",
-      "total_amount": 99492.0,
+      "category": "通販",
+      "total_amount": 3000.0,
       "count": 1
     },
     {
@@ -2267,20 +2261,32 @@
     },
     {
       "billing_month": "2026-08",
+      "category": "投資",
+      "total_amount": 99492.0,
+      "count": 1
+    },
+    {
+      "billing_month": "2026-08",
+      "category": "その他",
+      "total_amount": 37010.0,
+      "count": 2
+    },
+    {
+      "billing_month": "2026-08",
       "category": "タクシー",
       "total_amount": 17550.0,
       "count": 5
     },
     {
       "billing_month": "2026-08",
-      "category": "通販",
-      "total_amount": 11000.0,
+      "category": "コンビニ",
+      "total_amount": 1157.0,
       "count": 2
     },
     {
       "billing_month": "2026-08",
-      "category": "コンビニ",
-      "total_amount": 1157.0,
+      "category": "通販",
+      "total_amount": 11000.0,
       "count": 2
     }
   ]
