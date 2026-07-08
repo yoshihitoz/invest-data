@@ -3,10 +3,10 @@
     "username": "masakoisogai",
     "display_name": "Mama",
     "source": "SBI証券",
-    "snapshot_at": "2026-07-08T09:24:21.032572",
-    "valuation": 112472991,
-    "profit_loss": 38430861,
-    "profit_loss_rate": 51.9,
+    "snapshot_at": "2026-07-08T13:01:50.403533",
+    "valuation": 112896331,
+    "profit_loss": 38854201,
+    "profit_loss_rate": 52.47,
     "acquisition_cost": 74042130
   },
   {
@@ -23,10 +23,10 @@
     "username": "nanaisogai",
     "display_name": "Sister",
     "source": "SBI証券",
-    "snapshot_at": "2026-07-08T09:30:38.296118",
-    "valuation": 13121256,
-    "profit_loss": 5058052,
-    "profit_loss_rate": 62.73,
+    "snapshot_at": "2026-07-08T13:03:30.567153",
+    "valuation": 13144346,
+    "profit_loss": 5081142,
+    "profit_loss_rate": 63.01,
     "acquisition_cost": 8063204
   },
   {
@@ -63,18 +63,18 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI証券",
-    "snapshot_at": "2026-07-08T09:18:03.525839",
-    "valuation": 226273343,
-    "profit_loss": 67969586,
-    "profit_loss_rate": 43.26,
-    "acquisition_cost": 157097407
+    "snapshot_at": "2026-07-08T13:01:02.079533",
+    "valuation": 227175228,
+    "profit_loss": 68868326,
+    "profit_loss_rate": 43.83,
+    "acquisition_cost": 157100552
   },
   {
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-07-07T16:05:17.404681",
-    "valuation": 7754374,
+    "snapshot_at": "2026-07-08T13:03:55.712679",
+    "valuation": 7602574,
     "profit_loss": null,
     "profit_loss_rate": null,
     "acquisition_cost": null
@@ -193,10 +193,10 @@
     "username": "yoshiyukiisogai",
     "display_name": "Brother",
     "source": "SBI証券",
-    "snapshot_at": "2026-07-08T09:28:22.500111",
-    "valuation": 13747819,
-    "profit_loss": 5649438,
-    "profit_loss_rate": 69.76,
+    "snapshot_at": "2026-07-08T13:02:38.933165",
+    "valuation": 13775974,
+    "profit_loss": 5677593,
+    "profit_loss_rate": 70.1,
     "acquisition_cost": 8098381
   },
   {
