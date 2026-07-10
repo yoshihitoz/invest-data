@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T04:10:01.717572",
+  "updated_at": "2026-07-11T04:15:02.217735",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -31,8 +31,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 220433.0,
-      "count": 23
+      "total_amount": 221620.0,
+      "count": 25
     },
     {
       "billing_month": "2026-08",
@@ -80,8 +80,8 @@
       "billing_month": "2026-07",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 453267.0,
-      "count": 94
+      "total_amount": 735759.0,
+      "count": 129
     },
     {
       "billing_month": "2026-06",
@@ -2142,8 +2142,8 @@
     {
       "billing_month": "2026-07",
       "category": "タクシー",
-      "total_amount": 54040.0,
-      "count": 20
+      "total_amount": 62640.0,
+      "count": 23
     },
     {
       "billing_month": "2026-07",
@@ -2154,8 +2154,8 @@
     {
       "billing_month": "2026-07",
       "category": "通信費",
-      "total_amount": 4084.0,
-      "count": 4
+      "total_amount": 5923.0,
+      "count": 5
     },
     {
       "billing_month": "2026-07",
@@ -2172,20 +2172,20 @@
     {
       "billing_month": "2026-07",
       "category": "外食",
-      "total_amount": 50285.0,
-      "count": 13
+      "total_amount": 98180.0,
+      "count": 23
     },
     {
       "billing_month": "2026-07",
       "category": "カフェ",
-      "total_amount": 3120.0,
-      "count": 1
+      "total_amount": 6240.0,
+      "count": 2
     },
     {
       "billing_month": "2026-07",
       "category": "スーパー",
-      "total_amount": 66580.0,
-      "count": 23
+      "total_amount": 74952.0,
+      "count": 28
     },
     {
       "billing_month": "2026-07",
@@ -2196,14 +2196,14 @@
     {
       "billing_month": "2026-07",
       "category": "サブスク・デジタル",
-      "total_amount": 28176.0,
-      "count": 5
+      "total_amount": 52392.0,
+      "count": 9
     },
     {
       "billing_month": "2026-07",
       "category": "エンタメ・レジャー",
-      "total_amount": 850.0,
-      "count": 1
+      "total_amount": 1700.0,
+      "count": 2
     },
     {
       "billing_month": "2026-07",
@@ -2214,8 +2214,8 @@
     {
       "billing_month": "2026-07",
       "category": "投資",
-      "total_amount": 299493.0,
-      "count": 3
+      "total_amount": 399493.0,
+      "count": 4
     },
     {
       "billing_month": "2026-07",
@@ -2226,14 +2226,14 @@
     {
       "billing_month": "2026-07",
       "category": "その他",
-      "total_amount": 117837.0,
-      "count": 15
+      "total_amount": 204807.0,
+      "count": 23
     },
     {
       "billing_month": "2026-07",
       "category": "コンビニ",
-      "total_amount": 8826.0,
-      "count": 10
+      "total_amount": 9456.0,
+      "count": 11
     },
     {
       "billing_month": "2026-08",
@@ -2250,8 +2250,8 @@
     {
       "billing_month": "2026-08",
       "category": "外食",
-      "total_amount": 3200.0,
-      "count": 2
+      "total_amount": 4020.0,
+      "count": 3
     },
     {
       "billing_month": "2026-08",
@@ -2280,8 +2280,8 @@
     {
       "billing_month": "2026-08",
       "category": "コンビニ",
-      "total_amount": 1807.0,
-      "count": 4
+      "total_amount": 2174.0,
+      "count": 5
     },
     {
       "billing_month": "2026-08",
