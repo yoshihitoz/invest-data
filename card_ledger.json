@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T04:10:01.730885",
+  "updated_at": "2026-07-15T04:15:02.469016",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -31,8 +31,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 249271.0,
-      "count": 35
+      "total_amount": 268096.0,
+      "count": 40
     },
     {
       "billing_month": "2026-08",
@@ -45,8 +45,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "三井住友ゴールドＭ　ＮＬ",
-      "total_amount": 3960.0,
-      "count": 1
+      "total_amount": 4051.0,
+      "count": 2
     },
     {
       "billing_month": "2026-07",
@@ -2238,14 +2238,14 @@
     {
       "billing_month": "2026-08",
       "category": "コンビニ",
-      "total_amount": 2449.0,
-      "count": 6
+      "total_amount": 3074.0,
+      "count": 7
     },
     {
       "billing_month": "2026-08",
       "category": "タクシー",
-      "total_amount": 28380.0,
-      "count": 9
+      "total_amount": 30080.0,
+      "count": 10
     },
     {
       "billing_month": "2026-08",
@@ -2262,8 +2262,8 @@
     {
       "billing_month": "2026-08",
       "category": "外食",
-      "total_amount": 4020.0,
-      "count": 3
+      "total_amount": 18520.0,
+      "count": 5
     },
     {
       "billing_month": "2026-08",
@@ -2274,14 +2274,14 @@
     {
       "billing_month": "2026-08",
       "category": "通販",
-      "total_amount": 11000.0,
-      "count": 2
+      "total_amount": 13000.0,
+      "count": 3
     },
     {
       "billing_month": "2026-08",
       "category": "通信費",
-      "total_amount": 3121.0,
-      "count": 2
+      "total_amount": 3212.0,
+      "count": 3
     },
     {
       "billing_month": "2026-08",
