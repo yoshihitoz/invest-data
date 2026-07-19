@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T04:10:02.511172",
+  "updated_at": "2026-07-20T04:15:02.290101",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -31,8 +31,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 454828.0,
-      "count": 52
+      "total_amount": 465284.0,
+      "count": 55
     },
     {
       "billing_month": "2026-08",
@@ -2304,14 +2304,14 @@
     {
       "billing_month": "2026-08",
       "category": "タクシー",
-      "total_amount": 44420.0,
-      "count": 14
+      "total_amount": 53220.0,
+      "count": 16
     },
     {
       "billing_month": "2026-08",
       "category": "その他",
-      "total_amount": 38740.0,
-      "count": 3
+      "total_amount": 40396.0,
+      "count": 4
     },
     {
       "billing_month": "2026-08",
