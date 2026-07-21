@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T04:10:01.668593",
+  "updated_at": "2026-07-22T04:15:01.774315",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -24,15 +24,15 @@
       "billing_month": "2026-08",
       "issuer_code": "rakuten",
       "card_label": "楽天カード",
-      "total_amount": 2050.0,
-      "count": 2
+      "total_amount": 103050.0,
+      "count": 4
     },
     {
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 509767.0,
-      "count": 59
+      "total_amount": 520594.0,
+      "count": 62
     },
     {
       "billing_month": "2026-08",
@@ -2244,8 +2244,8 @@
     {
       "billing_month": "2026-08",
       "category": "通販",
-      "total_amount": 24050.0,
-      "count": 5
+      "total_amount": 25050.0,
+      "count": 6
     },
     {
       "billing_month": "2026-08",
@@ -2256,14 +2256,14 @@
     {
       "billing_month": "2026-08",
       "category": "外食",
-      "total_amount": 65600.0,
-      "count": 8
+      "total_amount": 75698.0,
+      "count": 10
     },
     {
       "billing_month": "2026-08",
       "category": "スーパー",
-      "total_amount": 32771.0,
-      "count": 10
+      "total_amount": 33500.0,
+      "count": 11
     },
     {
       "billing_month": "2026-08",
@@ -2286,8 +2286,8 @@
     {
       "billing_month": "2026-08",
       "category": "投資",
-      "total_amount": 199492.0,
-      "count": 2
+      "total_amount": 299492.0,
+      "count": 3
     },
     {
       "billing_month": "2026-08",
