@@ -802,7 +802,7 @@
   {
     "username": "yoshihito",
     "source": "Nikko for One",
-    "snapshot_at": "2026-07-24T16:04:09.746147",
+    "snapshot_at": "2026-07-27T09:20:55.183780",
     "account_category": "持株会",
     "asset_type": "stock",
     "asset_class": "国内株式",
@@ -818,7 +818,7 @@
   {
     "username": "yoshihito",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-07-24T16:02:54.456436",
+    "snapshot_at": "2026-07-27T09:19:54.229774",
     "account_category": "SMBC日興証券",
     "asset_type": "stock",
     "asset_class": "国内株式",
@@ -827,8 +827,8 @@
     "quantity": 1100,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 7174200,
-    "profit_loss": 3380300,
+    "valuation": 7551500,
+    "profit_loss": 3757600,
     "profit_loss_pct": null
   },
   {
