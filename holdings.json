@@ -802,17 +802,17 @@
   {
     "username": "yoshihito",
     "source": "Nikko for One",
-    "snapshot_at": "2026-07-28T16:04:32.244629",
+    "snapshot_at": "2026-07-29T09:20:47.209526",
     "account_category": "持株会",
     "asset_type": "stock",
     "asset_class": "国内株式",
     "ticker_code": "6532",
     "asset_name": "持株会(6532)",
     "quantity": 1223,
-    "current_price": 7186.0,
+    "current_price": 7199.0,
     "acquisition_price": 4985.0,
-    "valuation": 8785639,
-    "profit_loss": 2690954,
+    "valuation": 8801533,
+    "profit_loss": 2706848,
     "profit_loss_pct": null
   },
   {
@@ -865,22 +865,6 @@
   },
   {
     "username": "yoshihito",
-    "source": "楽天証券",
-    "snapshot_at": "2026-07-28T09:24:23.686988",
-    "account_category": "特定預り",
-    "asset_type": "投資信託",
-    "asset_class": "投資信託",
-    "ticker_code": null,
-    "asset_name": "楽天・プラス・日経225インデックス・ファンド",
-    "quantity": 1831714,
-    "current_price": 20352.0,
-    "acquisition_price": 12720.33,
-    "valuation": 3727904,
-    "profit_loss": 1397904,
-    "profit_loss_pct": 59.99
-  },
-  {
-    "username": "yoshihito",
     "source": "SBI証券",
     "snapshot_at": "2026-07-29T09:16:14.405829",
     "account_category": "NISA預り（成長投資枠）",
@@ -894,6 +878,22 @@
     "valuation": 3660952,
     "profit_loss": 1064972,
     "profit_loss_pct": 41.06
+  },
+  {
+    "username": "yoshihito",
+    "source": "楽天証券",
+    "snapshot_at": "2026-07-29T09:24:56.389466",
+    "account_category": "特定預り",
+    "asset_type": "投資信託",
+    "asset_class": "投資信託",
+    "ticker_code": null,
+    "asset_name": "楽天・プラス・日経225インデックス・ファンド",
+    "quantity": 1831714,
+    "current_price": 19546.0,
+    "acquisition_price": 12720.33,
+    "valuation": 3580268,
+    "profit_loss": 1250268,
+    "profit_loss_pct": 53.65
   },
   {
     "username": "yoshihito",
@@ -1042,18 +1042,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-07-28T09:24:23.686988",
+    "snapshot_at": "2026-07-29T09:24:56.389466",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "楽天・プラス・オールカントリー株式インデックス・ファンド",
     "quantity": 991975,
-    "current_price": 19663.0,
+    "current_price": 19675.0,
     "acquisition_price": 15121.35,
-    "valuation": 1950520,
-    "profit_loss": 450520,
-    "profit_loss_pct": 30.03
+    "valuation": 1951711,
+    "profit_loss": 451711,
+    "profit_loss_pct": 30.11
   },
   {
     "username": "yoshihito",
@@ -1426,18 +1426,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-07-28T09:24:23.686988",
+    "snapshot_at": "2026-07-29T09:24:56.389466",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "eMAXIS Slim 全世界株式",
     "quantity": 35354,
-    "current_price": 38160.0,
+    "current_price": 38183.0,
     "acquisition_price": 16971.21,
-    "valuation": 134911,
-    "profit_loss": 74911,
-    "profit_loss_pct": 124.85
+    "valuation": 134992,
+    "profit_loss": 74992,
+    "profit_loss_pct": 124.98
   },
   {
     "username": "yoshihito",
@@ -1634,18 +1634,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-07-28T09:24:23.686988",
+    "snapshot_at": "2026-07-29T09:24:56.389466",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "楽天・全米株式インデックス・ファンド",
     "quantity": 1331,
-    "current_price": 45106.0,
+    "current_price": 45189.0,
     "acquisition_price": 15026.3,
-    "valuation": 6004,
-    "profit_loss": 4004,
-    "profit_loss_pct": 200.18
+    "valuation": 6015,
+    "profit_loss": 4015,
+    "profit_loss_pct": 200.73
   },
   {
     "username": "yoshihito",
@@ -1666,18 +1666,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-07-28T09:24:23.686988",
+    "snapshot_at": "2026-07-29T09:24:56.389466",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "eMAXIS Slim 米国株式",
     "quantity": 810,
-    "current_price": 44607.0,
+    "current_price": 44650.0,
     "acquisition_price": 12345.68,
-    "valuation": 3613,
-    "profit_loss": 2613,
-    "profit_loss_pct": 261.31
+    "valuation": 3617,
+    "profit_loss": 2617,
+    "profit_loss_pct": 261.66
   },
   {
     "username": "yoshihito",
