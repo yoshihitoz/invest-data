@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T04:10:03.429879",
+  "updated_at": "2026-07-30T04:15:03.293378",
   "billing_months": [
     "2026-08",
     "2026-07",
@@ -31,8 +31,8 @@
       "billing_month": "2026-08",
       "issuer_code": "smbc",
       "card_label": "プラチナプリファード",
-      "total_amount": 618157.0,
-      "count": 92
+      "total_amount": 632140.0,
+      "count": 96
     },
     {
       "billing_month": "2026-08",
@@ -2263,8 +2263,8 @@
     {
       "billing_month": "2026-08",
       "category": "タクシー",
-      "total_amount": 64400.0,
-      "count": 22
+      "total_amount": 66350.0,
+      "count": 23
     },
     {
       "billing_month": "2026-08",
@@ -2323,8 +2323,8 @@
     {
       "billing_month": "2026-08",
       "category": "外食",
-      "total_amount": 91326.0,
-      "count": 14
+      "total_amount": 91806.0,
+      "count": 15
     },
     {
       "billing_month": "2026-08",
@@ -2347,8 +2347,8 @@
     {
       "billing_month": "2026-08",
       "category": "スーパー",
-      "total_amount": 43125.0,
-      "count": 16
+      "total_amount": 54678.0,
+      "count": 18
     }
   ]
 }
