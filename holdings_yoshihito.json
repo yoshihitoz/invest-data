@@ -82,7 +82,7 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-08-06T13:06:25.038483",
+    "snapshot_at": "2026-08-06T16:08:53.958041",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
@@ -98,17 +98,17 @@
   {
     "username": "yoshihito",
     "source": "Nikko for One",
-    "snapshot_at": "2026-08-06T09:23:35.512052",
+    "snapshot_at": "2026-08-06T16:05:20.907894",
     "account_category": "持株会",
     "asset_type": "stock",
     "asset_class": "国内株式",
     "ticker_code": "6532",
     "asset_name": "持株会(6532)",
     "quantity": 1238,
-    "current_price": 6935.0,
+    "current_price": 7046.0,
     "acquisition_price": 5013.0,
-    "valuation": 8582527,
-    "profit_loss": 2378604,
+    "valuation": 8719897,
+    "profit_loss": 2515974,
     "profit_loss_pct": null
   },
   {
@@ -370,7 +370,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -738,7 +738,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -882,7 +882,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -898,7 +898,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -994,7 +994,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1010,7 +1010,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-06T13:06:35.641995",
+    "snapshot_at": "2026-08-06T16:09:04.156255",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
