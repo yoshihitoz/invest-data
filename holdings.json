@@ -1090,7 +1090,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1099,30 +1099,30 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 1649768,
-    "profit_loss": 227318,
-    "profit_loss_pct": 16.0
+    "valuation": 1653798,
+    "profit_loss": 231348,
+    "profit_loss_pct": 16.3
   },
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-08-10T16:09:00.667533",
+    "snapshot_at": "2026-08-12T09:26:16.098515",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
     "ticker_code": "BTC",
     "asset_name": "BTC",
     "quantity": 0,
-    "current_price": 10339390.0,
+    "current_price": 10138000.0,
     "acquisition_price": null,
-    "valuation": 1156282,
+    "valuation": 1133760,
     "profit_loss": null,
     "profit_loss_pct": null
   },
   {
     "username": "yoshihito",
     "source": "bitFlyer",
-    "snapshot_at": "2026-08-10T16:09:00.667533",
+    "snapshot_at": "2026-08-12T09:26:16.098515",
     "account_category": "CRYPTO",
     "asset_type": "暗号資産",
     "asset_class": "暗号資産",
@@ -1474,7 +1474,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1483,9 +1483,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 100646,
-    "profit_loss": 3846,
-    "profit_loss_pct": 4.0
+    "valuation": 101286,
+    "profit_loss": 4486,
+    "profit_loss_pct": 4.6
   },
   {
     "username": "yoshihito",
@@ -1602,7 +1602,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1611,14 +1611,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 10972,
-    "profit_loss": -28,
+    "valuation": 10966,
+    "profit_loss": -34,
     "profit_loss_pct": -0.3
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1627,8 +1627,8 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 10816,
-    "profit_loss": -184,
+    "valuation": 10810,
+    "profit_loss": -190,
     "profit_loss_pct": -1.7
   },
   {
@@ -1714,7 +1714,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1723,14 +1723,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 2276,
-    "profit_loss": 76,
-    "profit_loss_pct": 3.5
+    "valuation": 2279,
+    "profit_loss": 79,
+    "profit_loss_pct": 3.6
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-10T16:07:56.470533",
+    "snapshot_at": "2026-08-12T09:25:11.769999",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1739,9 +1739,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 2218,
-    "profit_loss": 18,
-    "profit_loss_pct": 0.8
+    "valuation": 2220,
+    "profit_loss": 20,
+    "profit_loss_pct": 0.9
   },
   {
     "username": "yoshihito",
