@@ -45,7 +45,7 @@
     "source": "Nikko for One",
     "snapshot_at": "2026-08-14T16:04:18.752328",
     "valuation": 9513177,
-    "profit_loss": null,
+    "profit_loss": 3309254,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
@@ -55,7 +55,7 @@
     "source": "SBI 401K",
     "snapshot_at": "2026-08-14T16:07:51.823674",
     "valuation": 11398779,
-    "profit_loss": null,
+    "profit_loss": 630085,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
@@ -75,7 +75,7 @@
     "source": "SMBC日興証券",
     "snapshot_at": "2026-08-14T16:02:54.236666",
     "valuation": 8620158,
-    "profit_loss": null,
+    "profit_loss": 4661800,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
@@ -135,7 +135,7 @@
     "source": "楽天証券",
     "snapshot_at": "2026-08-14T09:24:19.787881",
     "valuation": 6162049,
-    "profit_loss": null,
+    "profit_loss": 2166048,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
