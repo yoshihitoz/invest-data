@@ -802,18 +802,18 @@
   {
     "username": "yoshihito",
     "source": "SBI 401K",
-    "snapshot_at": "2026-08-18T16:11:12.695466",
+    "snapshot_at": "2026-08-19T09:25:02.624064",
     "account_category": "iDeCo",
     "asset_type": "確定拠出年金",
     "asset_class": "海外株式",
     "ticker_code": null,
     "asset_name": "ＤＣニッセイ外国株式インデックス",
     "quantity": 2379455,
-    "current_price": 48012.0,
+    "current_price": 47918.0,
     "acquisition_price": null,
-    "valuation": 11424239,
-    "profit_loss": 655545,
-    "profit_loss_pct": 6.1
+    "valuation": 11401872,
+    "profit_loss": 633178,
+    "profit_loss_pct": 5.9
   },
   {
     "username": "yoshihito",
@@ -882,18 +882,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-08-17T09:24:15.837419",
+    "snapshot_at": "2026-08-19T09:24:47.339931",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "楽天・プラス・日経225インデックス・ファンド",
     "quantity": 1831714,
-    "current_price": 21536.0,
+    "current_price": 21144.0,
     "acquisition_price": 12720.33,
-    "valuation": 3944779,
-    "profit_loss": 1614779,
-    "profit_loss_pct": 69.3
+    "valuation": 3872976,
+    "profit_loss": 1542975,
+    "profit_loss_pct": 66.22
   },
   {
     "username": "yoshihito",
@@ -1058,18 +1058,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-08-17T09:24:15.837419",
+    "snapshot_at": "2026-08-19T09:24:47.339931",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "楽天・プラス・オールカントリー株式インデックス・ファンド",
     "quantity": 1042148,
-    "current_price": 20108.0,
+    "current_price": 20031.0,
     "acquisition_price": 15352.91,
-    "valuation": 2095551,
-    "profit_loss": 495551,
-    "profit_loss_pct": 30.97
+    "valuation": 2087527,
+    "profit_loss": 487526,
+    "profit_loss_pct": 30.47
   },
   {
     "username": "yoshihito",
@@ -1090,7 +1090,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1099,9 +1099,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 1676725,
-    "profit_loss": 254275,
-    "profit_loss_pct": 17.9
+    "valuation": 1674224,
+    "profit_loss": 251774,
+    "profit_loss_pct": 17.7
   },
   {
     "username": "yoshihito",
@@ -1442,18 +1442,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-08-17T09:24:15.837419",
+    "snapshot_at": "2026-08-19T09:24:47.339931",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "eMAXIS Slim 全世界株式",
     "quantity": 35354,
-    "current_price": 39019.0,
+    "current_price": 38868.0,
     "acquisition_price": 16971.21,
-    "valuation": 137948,
-    "profit_loss": 77948,
-    "profit_loss_pct": 129.91
+    "valuation": 137414,
+    "profit_loss": 77414,
+    "profit_loss_pct": 129.02
   },
   {
     "username": "yoshihito",
@@ -1474,7 +1474,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1483,9 +1483,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 103339,
-    "profit_loss": 6539,
-    "profit_loss_pct": 6.8
+    "valuation": 102257,
+    "profit_loss": 5457,
+    "profit_loss_pct": 5.6
   },
   {
     "username": "yoshihito",
@@ -1602,7 +1602,7 @@
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1611,14 +1611,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 11035,
-    "profit_loss": 35,
-    "profit_loss_pct": 0.3
+    "valuation": 10991,
+    "profit_loss": -9,
+    "profit_loss_pct": -0.1
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1627,9 +1627,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 10855,
-    "profit_loss": -145,
-    "profit_loss_pct": -1.3
+    "valuation": 10794,
+    "profit_loss": -206,
+    "profit_loss_pct": -1.9
   },
   {
     "username": "yoshihito",
@@ -1650,18 +1650,18 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-08-17T09:24:15.837419",
+    "snapshot_at": "2026-08-19T09:24:47.339931",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "楽天・全米株式インデックス・ファンド",
     "quantity": 1331,
-    "current_price": 46274.0,
+    "current_price": 46035.0,
     "acquisition_price": 15026.3,
-    "valuation": 6159,
-    "profit_loss": 4159,
-    "profit_loss_pct": 207.95
+    "valuation": 6127,
+    "profit_loss": 4127,
+    "profit_loss_pct": 206.36
   },
   {
     "username": "yoshihito",
@@ -1698,23 +1698,23 @@
   {
     "username": "yoshihito",
     "source": "楽天証券",
-    "snapshot_at": "2026-08-17T09:24:15.837419",
+    "snapshot_at": "2026-08-19T09:24:47.339931",
     "account_category": "特定預り",
     "asset_type": "投資信託",
     "asset_class": "投資信託",
     "ticker_code": null,
     "asset_name": "eMAXIS Slim 米国株式",
     "quantity": 810,
-    "current_price": 45727.0,
+    "current_price": 45443.0,
     "acquisition_price": 12345.68,
-    "valuation": 3704,
-    "profit_loss": 2704,
-    "profit_loss_pct": 270.38
+    "valuation": 3681,
+    "profit_loss": 2681,
+    "profit_loss_pct": 268.08
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1723,14 +1723,14 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 2299,
-    "profit_loss": 99,
-    "profit_loss_pct": 4.5
+    "valuation": 2285,
+    "profit_loss": 85,
+    "profit_loss_pct": 3.9
   },
   {
     "username": "yoshihito",
     "source": "みずほDC",
-    "snapshot_at": "2026-08-18T16:11:23.357183",
+    "snapshot_at": "2026-08-19T09:25:13.122509",
     "account_category": "企業型DC",
     "asset_type": "確定拠出年金",
     "asset_class": "投資信託",
@@ -1739,9 +1739,9 @@
     "quantity": null,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 2227,
-    "profit_loss": 27,
-    "profit_loss_pct": 1.2
+    "valuation": 2220,
+    "profit_loss": 20,
+    "profit_loss_pct": 0.9
   },
   {
     "username": "yoshihito",
