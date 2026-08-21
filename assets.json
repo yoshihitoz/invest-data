@@ -3,10 +3,10 @@
     "username": "masakoisogai",
     "display_name": "Mama",
     "source": "SBI証券",
-    "snapshot_at": "2026-08-21T09:16:53.016689",
-    "valuation": 113584331,
-    "profit_loss": 38826584,
-    "profit_loss_rate": 51.93,
+    "snapshot_at": "2026-08-21T13:02:29.093193",
+    "valuation": 113632822,
+    "profit_loss": 38875075,
+    "profit_loss_rate": 52.0,
     "acquisition_cost": 74757747
   },
   {
@@ -23,10 +23,10 @@
     "username": "nanaisogai",
     "display_name": "Sister",
     "source": "SBI証券",
-    "snapshot_at": "2026-08-21T09:18:32.274305",
-    "valuation": 13179933,
-    "profit_loss": 5035649,
-    "profit_loss_rate": 61.83,
+    "snapshot_at": "2026-08-21T13:04:50.468604",
+    "valuation": 13197549,
+    "profit_loss": 5053265,
+    "profit_loss_rate": 62.04,
     "acquisition_cost": 8144284
   },
   {
@@ -63,19 +63,19 @@
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SBI証券",
-    "snapshot_at": "2026-08-21T09:16:00.555886",
-    "valuation": 228999602,
-    "profit_loss": 69666968,
-    "profit_loss_rate": 44.02,
-    "acquisition_cost": 158229059
+    "snapshot_at": "2026-08-21T13:01:14.997200",
+    "valuation": 228975140,
+    "profit_loss": 69639375,
+    "profit_loss_rate": 44.01,
+    "acquisition_cost": 158232190
   },
   {
     "username": "yoshihito",
     "display_name": "Papa",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-08-21T09:19:18.739632",
-    "valuation": 8612458,
-    "profit_loss": 4654100,
+    "snapshot_at": "2026-08-21T13:05:18.979623",
+    "valuation": 8407858,
+    "profit_loss": 4449500,
     "profit_loss_rate": null,
     "acquisition_cost": null
   },
@@ -193,10 +193,10 @@
     "username": "yoshiyukiisogai",
     "display_name": "Brother",
     "source": "SBI証券",
-    "snapshot_at": "2026-08-21T09:17:46.038519",
-    "valuation": 13783599,
-    "profit_loss": 5600944,
-    "profit_loss_rate": 68.44,
+    "snapshot_at": "2026-08-21T13:03:40.287186",
+    "valuation": 13795505,
+    "profit_loss": 5612850,
+    "profit_loss_rate": 68.59,
     "acquisition_cost": 8182655
   },
   {
