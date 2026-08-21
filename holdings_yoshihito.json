@@ -114,7 +114,7 @@
   {
     "username": "yoshihito",
     "source": "SMBC日興証券",
-    "snapshot_at": "2026-08-21T13:05:18.979623",
+    "snapshot_at": "2026-08-21T16:04:35.158764",
     "account_category": "SMBC日興証券",
     "asset_type": "stock",
     "asset_class": "国内株式",
@@ -123,8 +123,8 @@
     "quantity": 1100,
     "current_price": null,
     "acquisition_price": null,
-    "valuation": 8243400,
-    "profit_loss": 4449500,
+    "valuation": 8233500,
+    "profit_loss": 4439600,
     "profit_loss_pct": null
   },
   {
@@ -913,22 +913,6 @@
   },
   {
     "username": "yoshihito",
-    "source": "楽天証券",
-    "snapshot_at": "2026-08-21T09:24:40.215286",
-    "account_category": "特定預り",
-    "asset_type": "投資信託",
-    "asset_class": "投資信託",
-    "ticker_code": null,
-    "asset_name": "eMAXIS Slim 米国株式",
-    "quantity": 2133,
-    "current_price": 44940.0,
-    "acquisition_price": 14064.7,
-    "valuation": 9586,
-    "profit_loss": 6586,
-    "profit_loss_pct": 219.52
-  },
-  {
-    "username": "yoshihito",
     "source": "SBI証券",
     "snapshot_at": "2026-08-21T16:00:40.702712",
     "account_category": "旧NISA預り",
@@ -993,6 +977,22 @@
   },
   {
     "username": "yoshihito",
+    "source": "楽天証券",
+    "snapshot_at": "2026-08-21T09:24:40.215286",
+    "account_category": "特定預り",
+    "asset_type": "投資信託",
+    "asset_class": "投資信託",
+    "ticker_code": null,
+    "asset_name": "eMAXIS Slim 米国株式",
+    "quantity": 810,
+    "current_price": 44940.0,
+    "acquisition_price": 12345.68,
+    "valuation": 3640,
+    "profit_loss": 2640,
+    "profit_loss_pct": 264.01
+  },
+  {
+    "username": "yoshihito",
     "source": "みずほDC",
     "snapshot_at": "2026-08-21T13:07:04.999844",
     "account_category": "企業型DC",
@@ -1036,6 +1036,22 @@
     "current_price": null,
     "acquisition_price": null,
     "valuation": -167352,
+    "profit_loss": null,
+    "profit_loss_pct": null
+  },
+  {
+    "username": "yoshihito",
+    "source": "SBI証券",
+    "snapshot_at": "2026-08-21T16:00:40.702712",
+    "account_category": "FX",
+    "asset_type": "FX",
+    "asset_class": "FX",
+    "ticker_code": "米ドル-円",
+    "asset_name": "米ドル-円 買建",
+    "quantity": 40300,
+    "current_price": null,
+    "acquisition_price": null,
+    "valuation": null,
     "profit_loss": null,
     "profit_loss_pct": null
   }
