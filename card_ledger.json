@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T04:10:47.326735",
+  "updated_at": "2026-08-22T04:15:46.840231",
   "billing_months": [
     "2026-09",
     "2026-08",
@@ -25,8 +25,8 @@
       "billing_month": "2026-09",
       "issuer_code": "rakuten",
       "card_label": "楽天カード",
-      "total_amount": 1000.0,
-      "count": 1
+      "total_amount": 487746.0,
+      "count": 3
     },
     {
       "billing_month": "2026-09",
@@ -2393,14 +2393,14 @@
     {
       "billing_month": "2026-09",
       "category": "投資",
-      "total_amount": 100000.0,
-      "count": 1
+      "total_amount": 200000.0,
+      "count": 2
     },
     {
       "billing_month": "2026-09",
       "category": "旅行・ホテル",
-      "total_amount": 2700.0,
-      "count": 1
+      "total_amount": 389446.0,
+      "count": 2
     },
     {
       "billing_month": "2026-09",
